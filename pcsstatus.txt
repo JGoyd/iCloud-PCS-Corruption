@@ -1,0 +1,2239 @@
+{
+  "status" : {
+    "all_status" : {
+      "CKKS_Engram" : 0,
+      "CKKS_Manatee" : 0,
+      "icdp_status" : true,
+      "icdp_status_2" : false,
+      "icdp_status_network" : true,
+      "icdp_status_w" : false
+    },
+    "current_identities" : {
+      "AccessibilityVOPronunciation" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation}",
+      "AccessibilityVOPronunciation2" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation2\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation2}",
+      "AccessibilityVOPronunciation3" : "<PCSIdentity  pubkey: GRHgAShtnbwWVM3wdcLFPTS6LC3CCXH3ImBzT6RWVCg= service: AccessibilityVOPronunciation3 BAT: (null) >",
+      "AccountData" : "<PCSIdentity  pubkey: p3InYsnZNNaz5YsuwU+2pZdaOWJt97pdlTPP+R606hc= service: AccountData BAT: (null) >",
+      "Activities" : "<PCSIdentity  pubkey: 3yXazX8a5y6wfx7CfEYeRnr546MeD8uzhDUl2KLs4Ks= service: Activities BAT: (null) >",
+      "Backup" : "<PCSIdentity  pubkey: 60y6oN9SJdI7SoZpnyzGH0P7c1AlyqxDVBaodXNDpUM= service: Backup BAT: (null) >",
+      "BluetoothCloudPairing" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-BluetoothCloudPairing\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-BluetoothCloudPairing}",
+      "BluetoothCloudPairing2" : "<PCSIdentity  pubkey: V7BXcW\/HWmCmuxnEE0U52\/VEmMyvFTHDiaojQg9l1XA= service: BluetoothCloudPairing2 BAT: 20220118135608;iPhone OS;19A348 >",
+      "BTAnnouncement" : "<PCSIdentity  pubkey: vavs57ytE+jOyujn0ea0vTmWcX3UfqKkTcowWqhE7kE= service: BTAnnouncement BAT: (null) >",
+      "BTPairing" : "<PCSIdentity  pubkey: 6I+H5KZ4O7mOw7\/ID6HOTqhf6ZRufxIaJayb2M0Z+zI= service: BTPairing BAT: (null) >",
+      "BulkMail" : "<PCSIdentity  pubkey: FlQbhH5eyGf7lz8M0OOt+6narJnnbViU16Ni20VOLAk= service: BulkMail BAT: (null) >",
+      "CloudKit" : "<PCSIdentity  pubkey: +XjcNX52tnyr\/+UXdat8aX2TrgQk6YaN695Xe2Q8Mts= service: CloudKit BAT: (null) >",
+      "CloudKitApple" : "<PCSIdentity  pubkey: yIkLCxaiObe20Tepif\/7jjAmo6ZfGPEDIPJ3u7mNXEM= service: CloudKitApple BAT: (null) >",
+      "com.apple.Accessibility" : "<PCSIdentity  pubkey: Yb3tYZAIjYewFnaK7adcULgOLDFlxtV0XnlrQRjiTcs= service: com.apple.Accessibility BAT: 20210807022249;iPhone OS;18F72 >",
+      "com.apple.accessibility.guestpass" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.guestpass\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.guestpass}",
+      "com.apple.accessibility.NameRecognition" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.NameRecognition\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.NameRecognition}",
+      "com.apple.accessibility.voicebanking" : "<PCSIdentity  pubkey: NL5LXTW7MpD393PHqNuoavuz7ulUzpoc8MpEMCqbfHg= service: com.apple.accessibility.voicebanking BAT: 20240531185625;iPhone OS;21D50 >",
+      "com.apple.amp-ae.metricskit.identifiers" : "<PCSIdentity  pubkey: A+ExtuUkg6o5HsfK73c7VnRmVY48el09vm2f5iWrdEc= service: com.apple.amp-ae.metricskit.identifiers BAT: 20220112153845;iPhone OS;19C57 >",
+      "com.apple.appleaccount.beneficiary" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.appleaccount.beneficiary\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.appleaccount.beneficiary}",
+      "com.apple.appleaccount.custodian" : "<PCSIdentity  pubkey: yoG\/gaaLLUWnP6UsmfpYAOv+EE+LIACn+8UFgFm1GSU= service: com.apple.appleaccount.custodian BAT: 20211229170410;iPhone OS;19B74 >",
+      "com.apple.appleaccount.identity.private" : "<PCSIdentity  pubkey: 2KJIwBG0AQi56QrdYAjuRGsLgjbp9tTNyIDqlWsOs00= service: com.apple.appleaccount.identity.private BAT: 20240529095709;iPhone OS;21D50 >",
+      "com.apple.applemediaservices.metrics" : "<PCSIdentity  pubkey: JzX8tmlNj1VgYz3nty+slV4IXXUGhv0SJwyxEZafeII= service: com.apple.applemediaservices.metrics BAT: 20210617144152;iPhone OS;18F72 >",
+      "com.apple.applemediaservices.multiuser" : "<PCSIdentity  pubkey: 1gYc\/Ih+bgd\/3eYjystN8LlRkiQmWfB\/\/5asSiIrpSk= service: com.apple.applemediaservices.multiuser BAT: 20200518114141;iPhone OS;17A878 >",
+      "com.apple.Avatar" : "<PCSIdentity  pubkey: WzosGa63qzFb9YUEUvN0PhdAnIl0II02eHBk77cN\/mA= service: com.apple.Avatar BAT: 20200518064002;iPhone OS;17E262 >",
+      "com.apple.biome.sync" : "<PCSIdentity  pubkey: WyZdVCtu3LTnYmgiMFARXuYDT8QU+jYcqafYdOxF6FQ= service: com.apple.biome.sync BAT: 20221219131340;iPhone OS;20C65 >",
+      "com.apple.bluetooth.services" : "<PCSIdentity  pubkey: MmJXATooSQcp4vkjvWVz0poKTRx9ynX1aNll4YFY+Ws= service: com.apple.bluetooth.services BAT: 20201128000900;iPhone OS;18B92 >",
+      "com.apple.calendar.icloud" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.calendar.icloud\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.calendar.icloud}",
+      "com.apple.callhistory.cloud-storage" : "<PCSIdentity  pubkey: B84EkC941YGMXoNZtgjSwz8jYZYREGUNj4YUfrWSwqY= service: com.apple.callhistory.cloud-storage BAT: 20200518063946;iPhone OS;17E262 >",
+      "com.apple.classroom.syncing" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.classroom.syncing\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.classroom.syncing}",
+      "com.apple.CloudKitFeatures" : "<PCSIdentity  pubkey: H4anOYPgT7aPHoNH86ckLpsOmArYZOetR18075cDsvI= service: com.apple.CloudKitFeatures BAT: 20241214004636;iPhone OS;22C152 >",
+      "com.apple.CloudKitFeaturesStingray" : "<PCSIdentity  pubkey: 8yXJUXMmY1iJ1mES6XwnkFxSltbQdKwFPgMS6GfGeao= service: com.apple.CloudKitFeaturesStingray BAT: (null) >",
+      "com.apple.contacts.posters" : "<PCSIdentity  pubkey: a3kSVvfHbMMIt6pdZkJp3I+cwNuqbMxcAOoUHie4WKw= service: com.apple.contacts.posters BAT: 20250922105204;iPhone OS;23A341 >",
+      "com.apple.coreidv.idv-data" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.coreidv.idv-data\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.coreidv.idv-data}",
+      "com.apple.coreidv.service-messages" : "<PCSIdentity  pubkey: sUbVkvxXVSN+bc0\/Z9xLCRdxEfQEWkt43xGX2XlgU3o= service: com.apple.coreidv.service-messages BAT: 20210102155126;iPhone OS;18B121 >",
+      "com.apple.diadem" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.diadem\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.diadem}",
+      "com.apple.DistributedTimers" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.DistributedTimers\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.DistributedTimers}",
+      "com.apple.donotdisturbd" : "<PCSIdentity  pubkey: 0Es1PCWlZrPTJW3Nl0eIobKfbvXp7tQbNW0bXEgr\/fk= service: com.apple.donotdisturbd BAT: 20211011162323;iPhone OS;19A348 >",
+      "com.apple.energykit.ami.LimitedPeers" : "<PCSIdentity  pubkey: 6oQEknkzEU3aohAyZjgvRzICT\/Mw7Dqv13M2g1ALpD0= service: com.apple.energykit.ami.LimitedPeers BAT: 20241022104724;iPhone OS;22A3370 >",
+      "com.apple.familycontrols.container" : "<PCSIdentity  pubkey: dfEpgTepyo4wfc+MiHRYGlt7GorUnwp04yNZ67Z0eoA= service: com.apple.familycontrols.container BAT: 20240604135316;iPhone OS;21F90 >",
+      "com.apple.findmy" : "<PCSIdentity  pubkey: UFKp\/MtIinATX9ImBMmilWYE0UOr2mq\/FmIbdAOg0IM= service: com.apple.findmy BAT: 20220118135607;iPhone OS;19A348 >",
+      "com.apple.findmy.localfindable" : "<PCSIdentity  pubkey: eLLNL5xtrs0UNlVkYKiXfW6\/ohvpJBsSrDlCMlpBbhg= service: com.apple.findmy.localfindable BAT: 20240604135221;iPhone OS;21F90 >",
+      "com.apple.Fitness.ActivitySharing" : "<PCSIdentity  pubkey: zSLBJmLTX7ARhBdPlysbRUNvGxsXpuDfnEo+v2u0U58= service: com.apple.Fitness.ActivitySharing BAT: 20241022011515;iPhone OS;22A3370 >",
+      "com.apple.FTMessageStoreService" : "<PCSIdentity  pubkey: 2zsELltw4O68KshTTNufQCi\/iUQ46JHL+DRJYvinlO0= service: com.apple.FTMessageStoreService BAT: 20240528221012;iPhone OS;21D50 >",
+      "com.apple.groupkit.crypto" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.crypto\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.crypto}",
+      "com.apple.groupkit.groupaccesskeys" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.groupaccesskeys\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.groupaccesskeys}",
+      "com.apple.groupkit.highsecuritygroupaccesskeys" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.highsecuritygroupaccesskeys\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.highsecuritygroupaccesskeys}",
+      "com.apple.groupkit.limitedPeersCrypto" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersCrypto\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersCrypto}",
+      "com.apple.groupkit.limitedPeersMetadata" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersMetadata\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersMetadata}",
+      "com.apple.groupkit.metadata" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.metadata\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.metadata}",
+      "com.apple.health.sync" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.health.sync\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.health.sync}",
+      "com.apple.health.sync2" : "<PCSIdentity  pubkey: 9G2vOz+3onbraJ+\/z9J+PtnmNfPTxgCX3KLh3mzT6IE= service: com.apple.health.sync2 BAT: 20200518061417;iPhone OS;16D57 >",
+      "com.apple.homekit" : "<PCSIdentity  pubkey: +tFZpIl8CTSIHoci\/bZfHKG01h5xv2kOR0FiBMSG+D8= service: com.apple.homekit BAT: 20200518114111;iPhone OS;17A878 >",
+      "com.apple.iad-cloudkit" : "<PCSIdentity  pubkey: +T+yLdWReGo+7coAEOrjitKSrxrP05XxsIotdkGmJWY= service: com.apple.iad-cloudkit BAT: 20200518071552;iPhone OS;17E262 >",
+      "com.apple.icloud-accounts.attestation-framework" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.icloud-accounts.attestation-framework\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.icloud-accounts.attestation-framework}",
+      "com.apple.icloud-appleid.privacy" : "<PCSIdentity  pubkey: BnR1Q\/WktFuqcp3HsIDdRhpfBG6xLaaXsi4O4+bZg+Y= service: com.apple.icloud-appleid.privacy BAT: (null) >",
+      "com.apple.iCloud.CommCenter" : "<PCSIdentity  pubkey: blWs8M2CPJP6sTBL8zm7KWutqqUTZgtMcl8M7mISimU= service: com.apple.iCloud.CommCenter BAT: 20200616211409;iPhone OS;17E262 >",
+      "com.apple.icloud.events" : "<PCSIdentity  pubkey: qDOdBD5LceigP+rmvqTZd952vZ+gyegjveN\/xzmFWP0= service: com.apple.icloud.events BAT: (null) >",
+      "com.apple.icloud.searchparty" : "<PCSIdentity  pubkey: 9M\/bGSe3CrI\/I5g0fgJ58k8LW55SJaSybQrRJILHODg= service: com.apple.icloud.searchparty BAT: 20200518071529;iPhone OS;17E262 >",
+      "com.apple.journal" : "<PCSIdentity  pubkey: mVOwDlbAR7WJYdvhj0ysLNCwCDu1d2q3XPBUdW+ddzQ= service: com.apple.journal BAT: 20241104124242;iPhone OS;22A3370 >",
+      "com.apple.KeyValueService.Encrypted" : "<PCSIdentity  pubkey: KDdOTb4QKNOmpNXIOM0ONLKJ0hac0F6sPwxAqOVSVcQ= service: com.apple.KeyValueService.Encrypted BAT: (null) >",
+      "com.apple.KeyValueService.EndToEndEncrypted" : "<PCSIdentity  pubkey: mbGkm7498JZuwDexhcevYyvxWBFk3EQLycDnCQ2m4ug= service: com.apple.KeyValueService.EndToEndEncrypted BAT: 20200518071615;iPhone OS;17E262 >",
+      "com.apple.KeyValueService.EndToEndEncrypted.AllPlatforms" : "<PCSIdentity  pubkey: GK5WfcyKRNi6vliu8HMXYi\/SimiUHkxtBX0Z73bc1fU= service: com.apple.KeyValueService.EndToEndEncrypted.AllPlatforms BAT: 20221219125044;iPhone OS;20C65 >",
+      "com.apple.knowledgestore" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.knowledgestore\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.knowledgestore}",
+      "com.apple.knowledgestore2" : "<PCSIdentity  pubkey: wnLob8XrAKXQJCDiZ+CbQ2BjEg2wkMlam8r2CKaUE0s= service: com.apple.knowledgestore2 BAT: 20200518061317;iPhone OS;16D57 >",
+      "com.apple.KTAccountKey" : "<PCSIdentity  pubkey: jNsznuscU8BhgIJRCFZgb3CemMI87xKSG9NA4Sps60Q= service: com.apple.KTAccountKey BAT: 20241022011410;iPhone OS;22A3370 >",
+      "com.apple.locationd.clx" : "<PCSIdentity  pubkey: PtpmnrJj3IRGpwB0EeeXSzQHXA4tH\/8KGqqnQrehtko= service: com.apple.locationd.clx BAT: 20240611183932;iPhone OS;21F90 >",
+      "com.apple.mail.preferences" : "<PCSIdentity  pubkey: HcVowbS7ZN+0hvWGuRDjlS87fRIjEuFj5S5lrxkMR6M= service: com.apple.mail.preferences BAT: 20200518063946;iPhone OS;17E262 >",
+      "com.apple.managedassets" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.managedassets\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.managedassets}",
+      "com.apple.Maps.Sync.secure" : "<PCSIdentity  pubkey: oTj6KDMe6un8WH4BuPScDNi6FmFtmo18f8S+lbGZFho= service: com.apple.Maps.Sync.secure BAT: 20211123220311;iPhone OS;19A348 >",
+      "com.apple.mediaservicesbroker.container" : "<PCSIdentity  pubkey: qgtJgkqnZc4Xx66i6wFLy0Z60J23FgN3pJyjQXbsWaQ= service: com.apple.mediaservicesbroker.container BAT: 20201128000900;iPhone OS;18B92 >",
+      "com.apple.messages.internal.nicknames" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.messages.internal.nicknames\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.messages.internal.nicknames}",
+      "com.apple.moments.suggestions" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.moments.suggestions\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.moments.suggestions}",
+      "com.apple.NetworkingKnowledgePlane" : "<PCSIdentity  pubkey: 2189TPT\/LRE49mi4QYoi+nO2SWxw05dE5XyzkqOeW7k= service: com.apple.NetworkingKnowledgePlane BAT: 20250922105203;iPhone OS;23A341 >",
+      "com.apple.news.private.secure" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.news.private.secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.news.private.secure}",
+      "com.apple.news.private.secure2" : "<PCSIdentity  pubkey: BScBlbvH5aImDw7+gjsPnkq2IFcnentJASTeeiygM1E= service: com.apple.news.private.secure2 BAT: 20220220172139;iPhone OS;19D52 >",
+      "com.apple.passes.sync.secure" : "<PCSIdentity  pubkey: Zom0kuaE3NfXCm2fUgX1XfdtsST+v2BFL4I6ezNZarg= service: com.apple.passes.sync.secure BAT: 20220610220603;iPhone OS;19F77 >",
+      "com.apple.pay.finance" : "<PCSIdentity  pubkey: 9SPd5u9a2WGFYIpxiUSup\/0UUtZoLnrLCFv4Dx4KYQU= service: com.apple.pay.finance BAT: 20221219125209;iPhone OS;20C65 >",
+      "com.apple.podcasts.secure" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.podcasts.secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.podcasts.secure}",
+      "com.apple.private.ids.kt" : "<PCSIdentity  pubkey: 4qSMvT7kMoX8TffPF0hQpa8ieLqMWZa4oX4bWFcWpq4= service: com.apple.private.ids.kt BAT: 20191127051243;iPhone OS;17A878 >",
+      "com.apple.ProactivePredictionsBackup" : "<PCSIdentity  pubkey: CmOjdObBUXqJWk8VL38KJyjmy9KuUTfbqT7N0cd+qEM= service: com.apple.ProactivePredictionsBackup BAT: 20211123213807;iPhone OS;19A348 >",
+      "com.apple.productkit.personalization" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.productkit.personalization\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.productkit.personalization}",
+      "com.apple.reminders" : "<PCSIdentity  pubkey: rHNBHKSrFVs0t3SkTKXXQ1JENgx3CyBiKC8b8VR5hZk= service: com.apple.reminders BAT: (null) >",
+      "com.apple.Research.iCloud" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.Research.iCloud\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.Research.iCloud}",
+      "com.apple.routined" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.routined\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.routined}",
+      "com.apple.routined2" : "<PCSIdentity  pubkey: AhOuXS4A0L6v85327QJ77T+5zgibf49i9oKBSpcSvKk= service: com.apple.routined2 BAT: 20200518063946;iPhone OS;17E262 >",
+      "com.apple.SafariShared.Bookmarks" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SafariShared.Bookmarks\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SafariShared.Bookmarks}",
+      "com.apple.SafariShared.CloudTabs" : "<PCSIdentity  pubkey: A3JfU8bfWGLp7N2suz5f6W2V3vAHMgQ7lzRwuw08tPY= service: com.apple.SafariShared.CloudTabs BAT: 20200518071517;iPhone OS;17E262 >",
+      "com.apple.SafariShared.History" : "<PCSIdentity  pubkey: 1GyZRIuHUh0lcL3CTTv5gCvnR9K06gVAB\/VLdGoS8ok= service: com.apple.SafariShared.History BAT: 20200518064138;iPhone OS;17E262 >",
+      "com.apple.SafetyMonitor.SafetyCache" : "<PCSIdentity  pubkey: L8IPh\/1LfVk+Mp0O26Roq9YvnK73eg2QmUQ8nk1YxXQ= service: com.apple.SafetyMonitor.SafetyCache BAT: 20240528220439;iPhone OS;21D50 >",
+      "com.apple.security.keychain.shared" : "<PCSIdentity  pubkey: Tk0Ys6ML4Ourdnw7buK+M21SP5TWobUXzPbx7ZsF\/nQ= service: com.apple.security.keychain.shared BAT: 20240528220556;iPhone OS;21D50 >",
+      "com.apple.seymour" : "<PCSIdentity  pubkey: uHIjA3rgdrtiVB32xGSuu0tE4eo3GZVBKcnE3iQ6Vkk= service: com.apple.seymour BAT: 20250922111348;iPhone OS;23A341 >",
+      "com.apple.shazam.secure" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.shazam.secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.shazam.secure}",
+      "com.apple.siri.data" : "<PCSIdentity  pubkey: lGjU5CagGbBpyVJPlQTjKgaEKGAK+UwgK3lKtE8CpvA= service: com.apple.siri.data BAT: 20220118135606;iPhone OS;19A348 >",
+      "com.apple.siri.knowledge" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.knowledge\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.knowledge}",
+      "com.apple.siri.knowledge2" : "<PCSIdentity  pubkey: xQ6qgJr65b7oLIKq+vasVIYLNiorSBRPcmoozZFDGQg= service: com.apple.siri.knowledge2 BAT: 20200518063946;iPhone OS;17E262 >",
+      "com.apple.siri.profile" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.profile\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.profile}",
+      "com.apple.siri.profile2" : "<PCSIdentity  pubkey: ku\/zpg9\/S4\/\/ja3QsT12iWdfRzn8pXbWuYd92BcP65E= service: com.apple.siri.profile2 BAT: 20200518061317;iPhone OS;16D57 >",
+      "com.apple.SocialLayer" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SocialLayer\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SocialLayer}",
+      "com.apple.spatialshowcase.userdata" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.spatialshowcase.userdata\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.spatialshowcase.userdata}",
+      "com.apple.statuskit" : "<PCSIdentity  pubkey: RN0CxmDvzp0FFnoRmG51j2rO80hoa4BcQmsLBna2mdE= service: com.apple.statuskit BAT: 20211123220604;iPhone OS;19B74 >",
+      "com.apple.stickers.user" : "<PCSIdentity  pubkey: FvSvVwvpPOrPQsdZ10D2VdA0ZfIpJHf23ljF366RHfs= service: com.apple.stickers.user BAT: 20240531185828;iPhone OS;21D50 >",
+      "com.apple.stocks.private" : "<PCSIdentity  pubkey: Fdt+NIhiHCnDmPDWkLNmOKD3VngFo3Y5ia945HdZDgM= service: com.apple.stocks.private BAT: 20220112012644;iPhone OS;19C57 >",
+      "com.apple.tdg-wb" : "<PCSIdentity  pubkey: Ej9kiCaPUyZKPmcut6ufkfGqyuOLT5gcel78\/+R+8dE= service: com.apple.tdg-wb BAT: 20250312003756;iPhone OS;22E5222f >",
+      "com.apple.textinput.KeyboardServices.Secure" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.textinput.KeyboardServices.Secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.textinput.KeyboardServices.Secure}",
+      "com.apple.textinput.KeyboardServices.Secure2" : "<PCSIdentity  pubkey: TQJw5Akm+uhRsT+d7BZkrLlC9QpsiilD3lhOPvEUqy8= service: com.apple.textinput.KeyboardServices.Secure2 BAT: 20200518061317;iPhone OS;16D57 >",
+      "com.apple.tipsd" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tipsd\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tipsd}",
+      "com.apple.translation" : "<PCSIdentity  pubkey: v3a5b9UJznZwartOncQYZf1dEDCQ3XVzrQ7kFrb0Y3w= service: com.apple.translation BAT: 20250414144354;iPhone OS;22E240 >",
+      "com.apple.transparency.storage" : "<PCSIdentity  pubkey: hQD0hD\/ISPa7dlllBW+iFjTYQtYIEw\/ADIHOlnHbvSQ= service: com.apple.transparency.storage BAT: 20240422160327;iPhone OS;20G81 >",
+      "com.apple.tv.federated" : "<PCSIdentity  pubkey: wXXQOB00SrvnqVjxCDkcW2+c2tUjPNuQUEip3lax8fo= service: com.apple.tv.federated BAT: 20240419214142;iPhone OS;20G81 >",
+      "com.apple.tvos.userprofiles" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tvos.userprofiles\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tvos.userprofiles}",
+      "com.apple.UsageTracking" : "<PCSIdentity  pubkey: utQqnCyjQl+kT0y8su5X+smXvnjIuqWlMdP\/Tjt9PuM= service: com.apple.UsageTracking BAT: 20240604180542;iPhone OS;21F90 >",
+      "com.apple.vo2max" : "<PCSIdentity  pubkey: p335TpATavFcUXXVjvW3\/IF66055SgROqZj7Tiv6IqI= service: com.apple.vo2max BAT: 20250923094516;iPhone OS;23A341 >",
+      "com.apple.VoiceMemosEncryptedContainer" : "<PCSIdentity  pubkey: IdDpJDSmgJe2AUpZ7AHXFm06wfQDFC9J\/5BqKqw\/JvM= service: com.apple.VoiceMemosEncryptedContainer BAT: (null) >",
+      "com.apple.wallet.paymentservices" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.wallet.paymentservices\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.wallet.paymentservices}",
+      "com.apple.wallet.paymentservices2" : "<PCSIdentity  pubkey: DLAwUg7i5Xx5mhAAslsTXo03naPk+tuyoOxxPOM3CkU= service: com.apple.wallet.paymentservices2 BAT: 20200518061317;iPhone OS;16D57 >",
+      "com.apple.watch.compass" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.watch.compass\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.watch.compass}",
+      "com.apple.watch.setup" : "<PCSIdentity  pubkey: KIVoHAXP8xG5btOS6Q8PqDdK4nqRrr6RT1M3jK3eemc= service: com.apple.watch.setup BAT: 20220112001634;iPhone OS;19C57 >",
+      "Continuity" : "<PCSIdentity  pubkey: 0pPeljT5rVmoXaF1z7OagGACxxt2O9U3EtADuzJDn44= service: Continuity BAT: (null) >",
+      "CoreSuggestionsPseudoEvents" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-CoreSuggestionsPseudoEvents\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-CoreSuggestionsPseudoEvents}",
+      "CoreSuggestionsPseudoEvents2" : "<PCSIdentity  pubkey: Q9v92wJMLyhVLqz1DGQGlEF62XwhD+YgCyVtMhcNRoc= service: CoreSuggestionsPseudoEvents2 BAT: 20200518061317;iPhone OS;16D57 >",
+      "DigitalHealth" : "<PCSIdentity  pubkey: 0eiLy\/7Ffj0qfkOBFH8QDG8IkyWX7OhRCHa5CMTcu7A= service: DigitalHealth BAT: 20240528220449;iPhone OS;21D50 >",
+      "Escrow" : "<PCSIdentity  pubkey: BKBYBpJHV9MLStMx6+JoDncfp+02HXSekFnHyDNeHc+Fy6dUmuPIupiBCttpKTfpQ4GxuLtyml61IYDDshMOqVg= service: Escrow BAT: (null) >",
+      "FDE" : "<PCSIdentity  pubkey: BE\/jpzxCpXqN0wKs6nOe7PKfpgBNBRGcd4EO6hEad2756aTHwlglKijaWwTBdzcmFQETWrBtC5kNxXfpP3oowvo= service: FDE BAT: (null) >",
+      "Gaming" : "<PCSIdentity  pubkey: ugZlmpBv4Xid3oVD\/zAlayVBUW3x7PM517KYKEOm8S8= service: Gaming BAT: (null) >",
+      "iAD" : "<PCSIdentity  pubkey: Y3kzJNDYOzmENAfqXnUtZzH0v6FVDmeQgcs+ee1eC+M= service: iAD BAT: (null) >",
+      "iBooksSecureData" : "<PCSIdentity  pubkey: pMYlPvrY7KaFb4Pe8LLrxScHn\/YL\/IsCXFgl9PbDbzQ= service: iBooksSecureData BAT: 20230320221319;iPhone OS;20C65 >",
+      "iCloudDrive" : "<PCSIdentity  pubkey: YZSCS3CML\/o3ECS8G8haXLvetdGfVP3sodpHYXjiihU= service: iCloudDrive BAT: (null) >",
+      "IDServicesEngram" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-IDServicesEngram\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-IDServicesEngram}",
+      "iMessage" : "<PCSIdentity  pubkey: dDYAdUiZyT\/JK2xtwmnmUS7vbRzGcDnjZk63G5ur400= service: iMessage BAT: (null) >",
+      "KeyboardServices" : "<PCSIdentity  pubkey: uUIyOOgsRanoDUVDKKMU\/7AyMk+HiYs4ARUoH3EdjzE= service: KeyboardServices BAT: (null) >",
+      "Maildrop" : "<PCSIdentity  pubkey: C+Us6syzwGOcSxA+LBICMfmwV4YG5kNLCdvdiA8hF8k= service: Maildrop BAT: (null) >",
+      "ManateeSharingTesting" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-ManateeSharingTesting\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-ManateeSharingTesting}",
+      "MapsSync" : "<PCSIdentity  pubkey: O6bjguk0YudYd8xTrQX8LL9TVnmzy+DGxbEsU4ZNvSg= service: MapsSync BAT: (null) >",
+      "MasterKey" : "<PCSIdentity  pubkey: 44nfKskYZDDzHuMU445aF\/YGMQww5yj\/91bCFcDnO1U= service: MasterKey BAT: 20141015115805;iPhone OS;12A405 >",
+      "Messages" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-Messages\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-Messages}",
+      "Messages2" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-Messages2\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-Messages2}",
+      "Messages3" : "<PCSIdentity  pubkey: eXlz3COo+pHoweAkH2NyzbVv+ApOgmW0D2av2fOIeXc= service: Messages3 BAT: 20241118004459;iPhone OS;22B83 >",
+      "MessagesDevelopment" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-MessagesDevelopment\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-MessagesDevelopment}",
+      "News" : "<PCSIdentity  pubkey: qtsV+PYXSPKlH0BskmPVM0pZcl+tjEEExi+dVQYH32U= service: News BAT: (null) >",
+      "Notes" : "<PCSIdentity  pubkey: Cp+p9Fdkfy7UOb6H7ZCJpllg+tgDZDPE1HXDkyht1c4= service: Notes BAT: (null) >",
+      "Photos" : "<PCSIdentity  pubkey: +HERyOsRWDVcRH8sT0qIaQqGNo7ZUu5zjlA8m\/JXnpk= service: Photos BAT: (null) >",
+      "Raw" : "missing",
+      "Rawhide" : "<PCSIdentity  pubkey: sq7UG+YwBtqki38drS\/4\/wqseVCYKfsre7RzIrH8Xf8= service: Rawhide BAT: 20241118004458;iPhone OS;22B83 >",
+      "Rawhide3" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-Rawhide3\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-Rawhide3}",
+      "Safari" : "<PCSIdentity  pubkey: yQLItIw6XEWyUOxC83QXEZAXvh8HuAtJuD9u2pPGmVk= service: Safari BAT: (null) >",
+      "Sharing" : "<PCSIdentity  pubkey: rpIgnOm1hVTNoX7wA47oR9VdcpIyJgcxUtmZIDFjzpM= service: Sharing BAT: (null) >",
+      "SiriActions" : "<PCSIdentity  pubkey: d\/5rMVLyPMe0r7F4G40PTW\/UHpnwFbNCA71dpK1oWYM= service: SiriActions BAT: 20200518061317;iPhone OS;16D57 >",
+      "TTYCallHistory" : "<PCSIdentity  pubkey: Oq7U7JZcfFZ0YjROZqSsiG1aowl2PYu2VDcgB9Iv9gs= service: TTYCallHistory BAT: (null) >"
+    },
+    "current_identity_pointers" : {
+      "AccessibilityVOPronunciation" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation}"
+      },
+      "AccessibilityVOPronunciation2" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation2\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-AccessibilityVOPronunciation2}"
+      },
+      "AccessibilityVOPronunciation3" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:30 +0000",
+        "service" : "<PCSIdentity  pubkey: GRHgAShtnbwWVM3wdcLFPTS6LC3CCXH3ImBzT6RWVCg= service: AccessibilityVOPronunciation3 BAT: (null) >"
+      },
+      "AccountData" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:29 +0000",
+        "service" : "<PCSIdentity  pubkey: p3InYsnZNNaz5YsuwU+2pZdaOWJt97pdlTPP+R606hc= service: AccountData BAT: (null) >"
+      },
+      "Activities" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:26 +0000",
+        "service" : "<PCSIdentity  pubkey: 3yXazX8a5y6wfx7CfEYeRnr546MeD8uzhDUl2KLs4Ks= service: Activities BAT: (null) >"
+      },
+      "Backup" : {
+        "currentItemModificationTime" : "2021-11-23 21:48:23 +0000",
+        "service" : "<PCSIdentity  pubkey: 60y6oN9SJdI7SoZpnyzGH0P7c1AlyqxDVBaodXNDpUM= service: Backup BAT: (null) >"
+      },
+      "BluetoothCloudPairing" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-BluetoothCloudPairing\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-BluetoothCloudPairing}"
+      },
+      "BluetoothCloudPairing2" : {
+        "currentItemModificationTime" : "2022-01-18 14:00:28 +0000",
+        "service" : "<PCSIdentity  pubkey: V7BXcW\/HWmCmuxnEE0U52\/VEmMyvFTHDiaojQg9l1XA= service: BluetoothCloudPairing2 BAT: 20220118135608;iPhone OS;19A348 >"
+      },
+      "BTAnnouncement" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:30 +0000",
+        "service" : "<PCSIdentity  pubkey: vavs57ytE+jOyujn0ea0vTmWcX3UfqKkTcowWqhE7kE= service: BTAnnouncement BAT: (null) >"
+      },
+      "BTPairing" : {
+        "currentItemModificationTime" : "2021-11-23 21:48:22 +0000",
+        "service" : "<PCSIdentity  pubkey: 6I+H5KZ4O7mOw7\/ID6HOTqhf6ZRufxIaJayb2M0Z+zI= service: BTPairing BAT: (null) >"
+      },
+      "BulkMail" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:32 +0000",
+        "service" : "<PCSIdentity  pubkey: FlQbhH5eyGf7lz8M0OOt+6narJnnbViU16Ni20VOLAk= service: BulkMail BAT: (null) >"
+      },
+      "CloudKit" : {
+        "currentItemModificationTime" : "2021-11-23 21:48:22 +0000",
+        "service" : "<PCSIdentity  pubkey: +XjcNX52tnyr\/+UXdat8aX2TrgQk6YaN695Xe2Q8Mts= service: CloudKit BAT: (null) >"
+      },
+      "CloudKitApple" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:33 +0000",
+        "service" : "<PCSIdentity  pubkey: yIkLCxaiObe20Tepif\/7jjAmo6ZfGPEDIPJ3u7mNXEM= service: CloudKitApple BAT: (null) >"
+      },
+      "com.apple.Accessibility" : {
+        "currentItemModificationTime" : "2021-08-07 02:22:51 +0000",
+        "service" : "<PCSIdentity  pubkey: Yb3tYZAIjYewFnaK7adcULgOLDFlxtV0XnlrQRjiTcs= service: com.apple.Accessibility BAT: 20210807022249;iPhone OS;18F72 >"
+      },
+      "com.apple.accessibility.guestpass" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.guestpass\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.guestpass}"
+      },
+      "com.apple.accessibility.NameRecognition" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.NameRecognition\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.accessibility.NameRecognition}"
+      },
+      "com.apple.accessibility.voicebanking" : {
+        "currentItemModificationTime" : "2024-05-31 18:56:25 +0000",
+        "service" : "<PCSIdentity  pubkey: NL5LXTW7MpD393PHqNuoavuz7ulUzpoc8MpEMCqbfHg= service: com.apple.accessibility.voicebanking BAT: 20240531185625;iPhone OS;21D50 >"
+      },
+      "com.apple.amp-ae.metricskit.identifiers" : {
+        "currentItemModificationTime" : "2022-01-12 15:38:47 +0000",
+        "service" : "<PCSIdentity  pubkey: A+ExtuUkg6o5HsfK73c7VnRmVY48el09vm2f5iWrdEc= service: com.apple.amp-ae.metricskit.identifiers BAT: 20220112153845;iPhone OS;19C57 >"
+      },
+      "com.apple.appleaccount.beneficiary" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.appleaccount.beneficiary\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.appleaccount.beneficiary}"
+      },
+      "com.apple.appleaccount.custodian" : {
+        "currentItemModificationTime" : "2021-12-29 17:04:12 +0000",
+        "service" : "<PCSIdentity  pubkey: yoG\/gaaLLUWnP6UsmfpYAOv+EE+LIACn+8UFgFm1GSU= service: com.apple.appleaccount.custodian BAT: 20211229170410;iPhone OS;19B74 >"
+      },
+      "com.apple.appleaccount.identity.private" : {
+        "currentItemModificationTime" : "2024-05-29 09:57:10 +0000",
+        "service" : "<PCSIdentity  pubkey: 2KJIwBG0AQi56QrdYAjuRGsLgjbp9tTNyIDqlWsOs00= service: com.apple.appleaccount.identity.private BAT: 20240529095709;iPhone OS;21D50 >"
+      },
+      "com.apple.applemediaservices.metrics" : {
+        "currentItemModificationTime" : "2021-06-17 14:41:53 +0000",
+        "service" : "<PCSIdentity  pubkey: JzX8tmlNj1VgYz3nty+slV4IXXUGhv0SJwyxEZafeII= service: com.apple.applemediaservices.metrics BAT: 20210617144152;iPhone OS;18F72 >"
+      },
+      "com.apple.applemediaservices.multiuser" : {
+        "currentItemModificationTime" : "2020-05-18 11:41:43 +0000",
+        "service" : "<PCSIdentity  pubkey: 1gYc\/Ih+bgd\/3eYjystN8LlRkiQmWfB\/\/5asSiIrpSk= service: com.apple.applemediaservices.multiuser BAT: 20200518114141;iPhone OS;17A878 >"
+      },
+      "com.apple.Avatar" : {
+        "currentItemModificationTime" : "2020-05-18 06:40:29 +0000",
+        "service" : "<PCSIdentity  pubkey: WzosGa63qzFb9YUEUvN0PhdAnIl0II02eHBk77cN\/mA= service: com.apple.Avatar BAT: 20200518064002;iPhone OS;17E262 >"
+      },
+      "com.apple.biome.sync" : {
+        "currentItemModificationTime" : "2022-12-19 13:13:41 +0000",
+        "service" : "<PCSIdentity  pubkey: WyZdVCtu3LTnYmgiMFARXuYDT8QU+jYcqafYdOxF6FQ= service: com.apple.biome.sync BAT: 20221219131340;iPhone OS;20C65 >"
+      },
+      "com.apple.bluetooth.services" : {
+        "currentItemModificationTime" : "2020-11-28 00:09:03 +0000",
+        "service" : "<PCSIdentity  pubkey: MmJXATooSQcp4vkjvWVz0poKTRx9ynX1aNll4YFY+Ws= service: com.apple.bluetooth.services BAT: 20201128000900;iPhone OS;18B92 >"
+      },
+      "com.apple.calendar.icloud" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.calendar.icloud\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.calendar.icloud}"
+      },
+      "com.apple.callhistory.cloud-storage" : {
+        "currentItemModificationTime" : "2020-05-18 06:40:28 +0000",
+        "service" : "<PCSIdentity  pubkey: B84EkC941YGMXoNZtgjSwz8jYZYREGUNj4YUfrWSwqY= service: com.apple.callhistory.cloud-storage BAT: 20200518063946;iPhone OS;17E262 >"
+      },
+      "com.apple.classroom.syncing" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.classroom.syncing\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.classroom.syncing}"
+      },
+      "com.apple.CloudKitFeatures" : {
+        "currentItemModificationTime" : "2024-12-14 00:46:36 +0000",
+        "service" : "<PCSIdentity  pubkey: H4anOYPgT7aPHoNH86ckLpsOmArYZOetR18075cDsvI= service: com.apple.CloudKitFeatures BAT: 20241214004636;iPhone OS;22C152 >"
+      },
+      "com.apple.CloudKitFeaturesStingray" : {
+        "service" : "<PCSIdentity  pubkey: 8yXJUXMmY1iJ1mES6XwnkFxSltbQdKwFPgMS6GfGeao= service: com.apple.CloudKitFeaturesStingray BAT: (null) >"
+      },
+      "com.apple.contacts.posters" : {
+        "currentItemModificationTime" : "2025-09-22 10:52:06 +0000",
+        "service" : "<PCSIdentity  pubkey: a3kSVvfHbMMIt6pdZkJp3I+cwNuqbMxcAOoUHie4WKw= service: com.apple.contacts.posters BAT: 20250922105204;iPhone OS;23A341 >"
+      },
+      "com.apple.coreidv.idv-data" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.coreidv.idv-data\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.coreidv.idv-data}"
+      },
+      "com.apple.coreidv.service-messages" : {
+        "currentItemModificationTime" : "2021-01-02 15:51:28 +0000",
+        "service" : "<PCSIdentity  pubkey: sUbVkvxXVSN+bc0\/Z9xLCRdxEfQEWkt43xGX2XlgU3o= service: com.apple.coreidv.service-messages BAT: 20210102155126;iPhone OS;18B121 >"
+      },
+      "com.apple.diadem" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.diadem\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.diadem}"
+      },
+      "com.apple.DistributedTimers" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.DistributedTimers\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.DistributedTimers}"
+      },
+      "com.apple.donotdisturbd" : {
+        "currentItemModificationTime" : "2021-10-11 16:23:37 +0000",
+        "service" : "<PCSIdentity  pubkey: 0Es1PCWlZrPTJW3Nl0eIobKfbvXp7tQbNW0bXEgr\/fk= service: com.apple.donotdisturbd BAT: 20211011162323;iPhone OS;19A348 >"
+      },
+      "com.apple.energykit.ami.LimitedPeers" : {
+        "currentItemModificationTime" : "2024-10-22 10:47:24 +0000",
+        "service" : "<PCSIdentity  pubkey: 6oQEknkzEU3aohAyZjgvRzICT\/Mw7Dqv13M2g1ALpD0= service: com.apple.energykit.ami.LimitedPeers BAT: 20241022104724;iPhone OS;22A3370 >"
+      },
+      "com.apple.familycontrols.container" : {
+        "currentItemModificationTime" : "2024-06-04 13:53:16 +0000",
+        "service" : "<PCSIdentity  pubkey: dfEpgTepyo4wfc+MiHRYGlt7GorUnwp04yNZ67Z0eoA= service: com.apple.familycontrols.container BAT: 20240604135316;iPhone OS;21F90 >"
+      },
+      "com.apple.findmy" : {
+        "currentItemModificationTime" : "2022-01-18 14:00:27 +0000",
+        "service" : "<PCSIdentity  pubkey: UFKp\/MtIinATX9ImBMmilWYE0UOr2mq\/FmIbdAOg0IM= service: com.apple.findmy BAT: 20220118135607;iPhone OS;19A348 >"
+      },
+      "com.apple.findmy.localfindable" : {
+        "currentItemModificationTime" : "2024-06-04 13:52:21 +0000",
+        "service" : "<PCSIdentity  pubkey: eLLNL5xtrs0UNlVkYKiXfW6\/ohvpJBsSrDlCMlpBbhg= service: com.apple.findmy.localfindable BAT: 20240604135221;iPhone OS;21F90 >"
+      },
+      "com.apple.Fitness.ActivitySharing" : {
+        "currentItemModificationTime" : "2024-10-22 01:15:15 +0000",
+        "service" : "<PCSIdentity  pubkey: zSLBJmLTX7ARhBdPlysbRUNvGxsXpuDfnEo+v2u0U58= service: com.apple.Fitness.ActivitySharing BAT: 20241022011515;iPhone OS;22A3370 >"
+      },
+      "com.apple.FTMessageStoreService" : {
+        "currentItemModificationTime" : "2024-05-28 22:10:13 +0000",
+        "service" : "<PCSIdentity  pubkey: 2zsELltw4O68KshTTNufQCi\/iUQ46JHL+DRJYvinlO0= service: com.apple.FTMessageStoreService BAT: 20240528221012;iPhone OS;21D50 >"
+      },
+      "com.apple.groupkit.crypto" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.crypto\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.crypto}"
+      },
+      "com.apple.groupkit.groupaccesskeys" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.groupaccesskeys\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.groupaccesskeys}"
+      },
+      "com.apple.groupkit.highsecuritygroupaccesskeys" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.highsecuritygroupaccesskeys\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage.groupkit.groupaccesskeys-com.apple.groupkit.highsecuritygroupaccesskeys}"
+      },
+      "com.apple.groupkit.limitedPeersCrypto" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersCrypto\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersCrypto}"
+      },
+      "com.apple.groupkit.limitedPeersMetadata" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersMetadata\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.limitedPeersMetadata}"
+      },
+      "com.apple.groupkit.metadata" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.metadata\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.groupkit.metadata}"
+      },
+      "com.apple.health.sync" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.health.sync\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.health.sync}"
+      },
+      "com.apple.health.sync2" : {
+        "currentItemModificationTime" : "2020-05-18 06:14:37 +0000",
+        "service" : "<PCSIdentity  pubkey: 9G2vOz+3onbraJ+\/z9J+PtnmNfPTxgCX3KLh3mzT6IE= service: com.apple.health.sync2 BAT: 20200518061417;iPhone OS;16D57 >"
+      },
+      "com.apple.homekit" : {
+        "currentItemModificationTime" : "2020-05-18 11:41:12 +0000",
+        "service" : "<PCSIdentity  pubkey: +tFZpIl8CTSIHoci\/bZfHKG01h5xv2kOR0FiBMSG+D8= service: com.apple.homekit BAT: 20200518114111;iPhone OS;17A878 >"
+      },
+      "com.apple.iad-cloudkit" : {
+        "currentItemModificationTime" : "2020-05-18 07:16:19 +0000",
+        "service" : "<PCSIdentity  pubkey: +T+yLdWReGo+7coAEOrjitKSrxrP05XxsIotdkGmJWY= service: com.apple.iad-cloudkit BAT: 20200518071552;iPhone OS;17E262 >"
+      },
+      "com.apple.icloud-accounts.attestation-framework" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.icloud-accounts.attestation-framework\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.icloud-accounts.attestation-framework}"
+      },
+      "com.apple.icloud-appleid.privacy" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:30 +0000",
+        "service" : "<PCSIdentity  pubkey: BnR1Q\/WktFuqcp3HsIDdRhpfBG6xLaaXsi4O4+bZg+Y= service: com.apple.icloud-appleid.privacy BAT: (null) >"
+      },
+      "com.apple.iCloud.CommCenter" : {
+        "currentItemModificationTime" : "2020-06-16 21:14:11 +0000",
+        "service" : "<PCSIdentity  pubkey: blWs8M2CPJP6sTBL8zm7KWutqqUTZgtMcl8M7mISimU= service: com.apple.iCloud.CommCenter BAT: 20200616211409;iPhone OS;17E262 >"
+      },
+      "com.apple.icloud.events" : {
+        "currentItemModificationTime" : "2024-10-22 01:14:12 +0000",
+        "service" : "<PCSIdentity  pubkey: qDOdBD5LceigP+rmvqTZd952vZ+gyegjveN\/xzmFWP0= service: com.apple.icloud.events BAT: (null) >"
+      },
+      "com.apple.icloud.searchparty" : {
+        "currentItemModificationTime" : "2020-05-18 07:15:49 +0000",
+        "service" : "<PCSIdentity  pubkey: 9M\/bGSe3CrI\/I5g0fgJ58k8LW55SJaSybQrRJILHODg= service: com.apple.icloud.searchparty BAT: 20200518071529;iPhone OS;17E262 >"
+      },
+      "com.apple.journal" : {
+        "currentItemModificationTime" : "2024-11-04 12:42:43 +0000",
+        "service" : "<PCSIdentity  pubkey: mVOwDlbAR7WJYdvhj0ysLNCwCDu1d2q3XPBUdW+ddzQ= service: com.apple.journal BAT: 20241104124242;iPhone OS;22A3370 >"
+      },
+      "com.apple.KeyValueService.Encrypted" : {
+        "currentItemModificationTime" : "2024-10-22 01:14:13 +0000",
+        "service" : "<PCSIdentity  pubkey: KDdOTb4QKNOmpNXIOM0ONLKJ0hac0F6sPwxAqOVSVcQ= service: com.apple.KeyValueService.Encrypted BAT: (null) >"
+      },
+      "com.apple.KeyValueService.EndToEndEncrypted" : {
+        "currentItemModificationTime" : "2020-05-18 07:16:20 +0000",
+        "service" : "<PCSIdentity  pubkey: mbGkm7498JZuwDexhcevYyvxWBFk3EQLycDnCQ2m4ug= service: com.apple.KeyValueService.EndToEndEncrypted BAT: 20200518071615;iPhone OS;17E262 >"
+      },
+      "com.apple.KeyValueService.EndToEndEncrypted.AllPlatforms" : {
+        "currentItemModificationTime" : "2022-12-19 12:50:45 +0000",
+        "service" : "<PCSIdentity  pubkey: GK5WfcyKRNi6vliu8HMXYi\/SimiUHkxtBX0Z73bc1fU= service: com.apple.KeyValueService.EndToEndEncrypted.AllPlatforms BAT: 20221219125044;iPhone OS;20C65 >"
+      },
+      "com.apple.knowledgestore" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.knowledgestore\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.knowledgestore}"
+      },
+      "com.apple.knowledgestore2" : {
+        "currentItemModificationTime" : "2020-05-18 06:13:38 +0000",
+        "service" : "<PCSIdentity  pubkey: wnLob8XrAKXQJCDiZ+CbQ2BjEg2wkMlam8r2CKaUE0s= service: com.apple.knowledgestore2 BAT: 20200518061317;iPhone OS;16D57 >"
+      },
+      "com.apple.KTAccountKey" : {
+        "currentItemModificationTime" : "2024-10-22 01:14:11 +0000",
+        "service" : "<PCSIdentity  pubkey: jNsznuscU8BhgIJRCFZgb3CemMI87xKSG9NA4Sps60Q= service: com.apple.KTAccountKey BAT: 20241022011410;iPhone OS;22A3370 >"
+      },
+      "com.apple.locationd.clx" : {
+        "currentItemModificationTime" : "2024-06-11 18:39:33 +0000",
+        "service" : "<PCSIdentity  pubkey: PtpmnrJj3IRGpwB0EeeXSzQHXA4tH\/8KGqqnQrehtko= service: com.apple.locationd.clx BAT: 20240611183932;iPhone OS;21F90 >"
+      },
+      "com.apple.mail.preferences" : {
+        "currentItemModificationTime" : "2020-05-18 06:40:29 +0000",
+        "service" : "<PCSIdentity  pubkey: HcVowbS7ZN+0hvWGuRDjlS87fRIjEuFj5S5lrxkMR6M= service: com.apple.mail.preferences BAT: 20200518063946;iPhone OS;17E262 >"
+      },
+      "com.apple.managedassets" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.managedassets\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.managedassets}"
+      },
+      "com.apple.Maps.Sync.secure" : {
+        "currentItemModificationTime" : "2021-11-23 22:03:12 +0000",
+        "service" : "<PCSIdentity  pubkey: oTj6KDMe6un8WH4BuPScDNi6FmFtmo18f8S+lbGZFho= service: com.apple.Maps.Sync.secure BAT: 20211123220311;iPhone OS;19A348 >"
+      },
+      "com.apple.mediaservicesbroker.container" : {
+        "currentItemModificationTime" : "2020-11-28 00:09:02 +0000",
+        "service" : "<PCSIdentity  pubkey: qgtJgkqnZc4Xx66i6wFLy0Z60J23FgN3pJyjQXbsWaQ= service: com.apple.mediaservicesbroker.container BAT: 20201128000900;iPhone OS;18B92 >"
+      },
+      "com.apple.messages.internal.nicknames" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.messages.internal.nicknames\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.messages.internal.nicknames}"
+      },
+      "com.apple.moments.suggestions" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.moments.suggestions\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.moments.suggestions}"
+      },
+      "com.apple.NetworkingKnowledgePlane" : {
+        "currentItemModificationTime" : "2025-09-22 10:52:06 +0000",
+        "service" : "<PCSIdentity  pubkey: 2189TPT\/LRE49mi4QYoi+nO2SWxw05dE5XyzkqOeW7k= service: com.apple.NetworkingKnowledgePlane BAT: 20250922105203;iPhone OS;23A341 >"
+      },
+      "com.apple.news.private.secure" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.news.private.secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.news.private.secure}"
+      },
+      "com.apple.news.private.secure2" : {
+        "currentItemModificationTime" : "2022-02-20 17:21:41 +0000",
+        "service" : "<PCSIdentity  pubkey: BScBlbvH5aImDw7+gjsPnkq2IFcnentJASTeeiygM1E= service: com.apple.news.private.secure2 BAT: 20220220172139;iPhone OS;19D52 >"
+      },
+      "com.apple.passes.sync.secure" : {
+        "currentItemModificationTime" : "2022-06-10 22:06:05 +0000",
+        "service" : "<PCSIdentity  pubkey: Zom0kuaE3NfXCm2fUgX1XfdtsST+v2BFL4I6ezNZarg= service: com.apple.passes.sync.secure BAT: 20220610220603;iPhone OS;19F77 >"
+      },
+      "com.apple.pay.finance" : {
+        "currentItemModificationTime" : "2022-12-19 12:52:10 +0000",
+        "service" : "<PCSIdentity  pubkey: 9SPd5u9a2WGFYIpxiUSup\/0UUtZoLnrLCFv4Dx4KYQU= service: com.apple.pay.finance BAT: 20221219125209;iPhone OS;20C65 >"
+      },
+      "com.apple.podcasts.secure" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.podcasts.secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.podcasts.secure}"
+      },
+      "com.apple.private.ids.kt" : {
+        "currentItemModificationTime" : "2019-11-27 05:12:45 +0000",
+        "service" : "<PCSIdentity  pubkey: 4qSMvT7kMoX8TffPF0hQpa8ieLqMWZa4oX4bWFcWpq4= service: com.apple.private.ids.kt BAT: 20191127051243;iPhone OS;17A878 >"
+      },
+      "com.apple.ProactivePredictionsBackup" : {
+        "currentItemModificationTime" : "2021-11-23 21:38:09 +0000",
+        "service" : "<PCSIdentity  pubkey: CmOjdObBUXqJWk8VL38KJyjmy9KuUTfbqT7N0cd+qEM= service: com.apple.ProactivePredictionsBackup BAT: 20211123213807;iPhone OS;19A348 >"
+      },
+      "com.apple.productkit.personalization" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.productkit.personalization\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.productkit.personalization}"
+      },
+      "com.apple.reminders" : {
+        "currentItemModificationTime" : "2024-04-19 21:41:06 +0000",
+        "service" : "<PCSIdentity  pubkey: rHNBHKSrFVs0t3SkTKXXQ1JENgx3CyBiKC8b8VR5hZk= service: com.apple.reminders BAT: (null) >"
+      },
+      "com.apple.Research.iCloud" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.Research.iCloud\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.Research.iCloud}"
+      },
+      "com.apple.routined" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.routined\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.routined}"
+      },
+      "com.apple.routined2" : {
+        "currentItemModificationTime" : "2020-05-18 06:40:28 +0000",
+        "service" : "<PCSIdentity  pubkey: AhOuXS4A0L6v85327QJ77T+5zgibf49i9oKBSpcSvKk= service: com.apple.routined2 BAT: 20200518063946;iPhone OS;17E262 >"
+      },
+      "com.apple.SafariShared.Bookmarks" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SafariShared.Bookmarks\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SafariShared.Bookmarks}"
+      },
+      "com.apple.SafariShared.CloudTabs" : {
+        "currentItemModificationTime" : "2020-05-18 07:15:20 +0000",
+        "service" : "<PCSIdentity  pubkey: A3JfU8bfWGLp7N2suz5f6W2V3vAHMgQ7lzRwuw08tPY= service: com.apple.SafariShared.CloudTabs BAT: 20200518071517;iPhone OS;17E262 >"
+      },
+      "com.apple.SafariShared.History" : {
+        "currentItemModificationTime" : "2020-05-18 06:41:40 +0000",
+        "service" : "<PCSIdentity  pubkey: 1GyZRIuHUh0lcL3CTTv5gCvnR9K06gVAB\/VLdGoS8ok= service: com.apple.SafariShared.History BAT: 20200518064138;iPhone OS;17E262 >"
+      },
+      "com.apple.SafetyMonitor.SafetyCache" : {
+        "currentItemModificationTime" : "2024-05-28 22:04:40 +0000",
+        "service" : "<PCSIdentity  pubkey: L8IPh\/1LfVk+Mp0O26Roq9YvnK73eg2QmUQ8nk1YxXQ= service: com.apple.SafetyMonitor.SafetyCache BAT: 20240528220439;iPhone OS;21D50 >"
+      },
+      "com.apple.security.keychain.shared" : {
+        "currentItemModificationTime" : "2024-05-28 22:05:57 +0000",
+        "service" : "<PCSIdentity  pubkey: Tk0Ys6ML4Ourdnw7buK+M21SP5TWobUXzPbx7ZsF\/nQ= service: com.apple.security.keychain.shared BAT: 20240528220556;iPhone OS;21D50 >"
+      },
+      "com.apple.seymour" : {
+        "currentItemModificationTime" : "2025-09-22 11:13:49 +0000",
+        "service" : "<PCSIdentity  pubkey: uHIjA3rgdrtiVB32xGSuu0tE4eo3GZVBKcnE3iQ6Vkk= service: com.apple.seymour BAT: 20250922111348;iPhone OS;23A341 >"
+      },
+      "com.apple.shazam.secure" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.shazam.secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.shazam.secure}"
+      },
+      "com.apple.siri.data" : {
+        "currentItemModificationTime" : "2022-01-18 14:00:25 +0000",
+        "service" : "<PCSIdentity  pubkey: lGjU5CagGbBpyVJPlQTjKgaEKGAK+UwgK3lKtE8CpvA= service: com.apple.siri.data BAT: 20220118135606;iPhone OS;19A348 >"
+      },
+      "com.apple.siri.knowledge" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.knowledge\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.knowledge}"
+      },
+      "com.apple.siri.knowledge2" : {
+        "currentItemModificationTime" : "2020-05-18 06:40:28 +0000",
+        "service" : "<PCSIdentity  pubkey: xQ6qgJr65b7oLIKq+vasVIYLNiorSBRPcmoozZFDGQg= service: com.apple.siri.knowledge2 BAT: 20200518063946;iPhone OS;17E262 >"
+      },
+      "com.apple.siri.profile" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.profile\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.siri.profile}"
+      },
+      "com.apple.siri.profile2" : {
+        "currentItemModificationTime" : "2020-05-18 06:13:39 +0000",
+        "service" : "<PCSIdentity  pubkey: ku\/zpg9\/S4\/\/ja3QsT12iWdfRzn8pXbWuYd92BcP65E= service: com.apple.siri.profile2 BAT: 20200518061317;iPhone OS;16D57 >"
+      },
+      "com.apple.SocialLayer" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SocialLayer\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.SocialLayer}"
+      },
+      "com.apple.spatialshowcase.userdata" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.spatialshowcase.userdata\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.spatialshowcase.userdata}"
+      },
+      "com.apple.statuskit" : {
+        "currentItemModificationTime" : "2021-11-23 22:06:10 +0000",
+        "service" : "<PCSIdentity  pubkey: RN0CxmDvzp0FFnoRmG51j2rO80hoa4BcQmsLBna2mdE= service: com.apple.statuskit BAT: 20211123220604;iPhone OS;19B74 >"
+      },
+      "com.apple.stickers.user" : {
+        "currentItemModificationTime" : "2024-05-31 18:58:28 +0000",
+        "service" : "<PCSIdentity  pubkey: FvSvVwvpPOrPQsdZ10D2VdA0ZfIpJHf23ljF366RHfs= service: com.apple.stickers.user BAT: 20240531185828;iPhone OS;21D50 >"
+      },
+      "com.apple.stocks.private" : {
+        "currentItemModificationTime" : "2022-01-12 01:26:45 +0000",
+        "service" : "<PCSIdentity  pubkey: Fdt+NIhiHCnDmPDWkLNmOKD3VngFo3Y5ia945HdZDgM= service: com.apple.stocks.private BAT: 20220112012644;iPhone OS;19C57 >"
+      },
+      "com.apple.tdg-wb" : {
+        "currentItemModificationTime" : "2025-03-12 00:37:58 +0000",
+        "service" : "<PCSIdentity  pubkey: Ej9kiCaPUyZKPmcut6ufkfGqyuOLT5gcel78\/+R+8dE= service: com.apple.tdg-wb BAT: 20250312003756;iPhone OS;22E5222f >"
+      },
+      "com.apple.textinput.KeyboardServices.Secure" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.textinput.KeyboardServices.Secure\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.textinput.KeyboardServices.Secure}"
+      },
+      "com.apple.textinput.KeyboardServices.Secure2" : {
+        "currentItemModificationTime" : "2020-05-18 06:13:39 +0000",
+        "service" : "<PCSIdentity  pubkey: TQJw5Akm+uhRsT+d7BZkrLlC9QpsiilD3lhOPvEUqy8= service: com.apple.textinput.KeyboardServices.Secure2 BAT: 20200518061317;iPhone OS;16D57 >"
+      },
+      "com.apple.tipsd" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tipsd\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tipsd}"
+      },
+      "com.apple.translation" : {
+        "currentItemModificationTime" : "2025-04-14 14:43:55 +0000",
+        "service" : "<PCSIdentity  pubkey: v3a5b9UJznZwartOncQYZf1dEDCQ3XVzrQ7kFrb0Y3w= service: com.apple.translation BAT: 20250414144354;iPhone OS;22E240 >"
+      },
+      "com.apple.transparency.storage" : {
+        "currentItemModificationTime" : "2024-04-22 16:03:28 +0000",
+        "service" : "<PCSIdentity  pubkey: hQD0hD\/ISPa7dlllBW+iFjTYQtYIEw\/ADIHOlnHbvSQ= service: com.apple.transparency.storage BAT: 20240422160327;iPhone OS;20G81 >"
+      },
+      "com.apple.tv.federated" : {
+        "currentItemModificationTime" : "2024-04-19 21:41:42 +0000",
+        "service" : "<PCSIdentity  pubkey: wXXQOB00SrvnqVjxCDkcW2+c2tUjPNuQUEip3lax8fo= service: com.apple.tv.federated BAT: 20240419214142;iPhone OS;20G81 >"
+      },
+      "com.apple.tvos.userprofiles" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tvos.userprofiles\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.tvos.userprofiles}"
+      },
+      "com.apple.UsageTracking" : {
+        "currentItemModificationTime" : "2024-06-04 18:05:43 +0000",
+        "service" : "<PCSIdentity  pubkey: utQqnCyjQl+kT0y8su5X+smXvnjIuqWlMdP\/Tjt9PuM= service: com.apple.UsageTracking BAT: 20240604180542;iPhone OS;21F90 >"
+      },
+      "com.apple.vo2max" : {
+        "currentItemModificationTime" : "2025-09-23 09:45:16 +0000",
+        "service" : "<PCSIdentity  pubkey: p335TpATavFcUXXVjvW3\/IF66055SgROqZj7Tiv6IqI= service: com.apple.vo2max BAT: 20250923094516;iPhone OS;23A341 >"
+      },
+      "com.apple.VoiceMemosEncryptedContainer" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:27 +0000",
+        "service" : "<PCSIdentity  pubkey: IdDpJDSmgJe2AUpZ7AHXFm06wfQDFC9J\/5BqKqw\/JvM= service: com.apple.VoiceMemosEncryptedContainer BAT: (null) >"
+      },
+      "com.apple.wallet.paymentservices" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.wallet.paymentservices\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.wallet.paymentservices}"
+      },
+      "com.apple.wallet.paymentservices2" : {
+        "currentItemModificationTime" : "2020-05-18 06:13:40 +0000",
+        "service" : "<PCSIdentity  pubkey: DLAwUg7i5Xx5mhAAslsTXo03naPk+tuyoOxxPOM3CkU= service: com.apple.wallet.paymentservices2 BAT: 20200518061317;iPhone OS;16D57 >"
+      },
+      "com.apple.watch.compass" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.watch.compass\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-com.apple.watch.compass}"
+      },
+      "com.apple.watch.setup" : {
+        "currentItemModificationTime" : "2022-01-12 00:16:35 +0000",
+        "service" : "<PCSIdentity  pubkey: KIVoHAXP8xG5btOS6Q8PqDdK4nqRrr6RT1M3jK3eemc= service: com.apple.watch.setup BAT: 20220112001634;iPhone OS;19C57 >"
+      },
+      "Continuity" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:33 +0000",
+        "service" : "<PCSIdentity  pubkey: 0pPeljT5rVmoXaF1z7OagGACxxt2O9U3EtADuzJDn44= service: Continuity BAT: (null) >"
+      },
+      "CoreSuggestionsPseudoEvents" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-CoreSuggestionsPseudoEvents\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-CoreSuggestionsPseudoEvents}"
+      },
+      "CoreSuggestionsPseudoEvents2" : {
+        "currentItemModificationTime" : "2020-05-18 06:13:38 +0000",
+        "service" : "<PCSIdentity  pubkey: Q9v92wJMLyhVLqz1DGQGlEF62XwhD+YgCyVtMhcNRoc= service: CoreSuggestionsPseudoEvents2 BAT: 20200518061317;iPhone OS;16D57 >"
+      },
+      "DigitalHealth" : {
+        "currentItemModificationTime" : "2024-05-28 22:04:50 +0000",
+        "service" : "<PCSIdentity  pubkey: 0eiLy\/7Ffj0qfkOBFH8QDG8IkyWX7OhRCHa5CMTcu7A= service: DigitalHealth BAT: 20240528220449;iPhone OS;21D50 >"
+      },
+      "Escrow" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:31 +0000",
+        "service" : "<PCSIdentity  pubkey: BKBYBpJHV9MLStMx6+JoDncfp+02HXSekFnHyDNeHc+Fy6dUmuPIupiBCttpKTfpQ4GxuLtyml61IYDDshMOqVg= service: Escrow BAT: (null) >"
+      },
+      "FDE" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:31 +0000",
+        "service" : "<PCSIdentity  pubkey: BE\/jpzxCpXqN0wKs6nOe7PKfpgBNBRGcd4EO6hEad2756aTHwlglKijaWwTBdzcmFQETWrBtC5kNxXfpP3oowvo= service: FDE BAT: (null) >"
+      },
+      "Gaming" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:32 +0000",
+        "service" : "<PCSIdentity  pubkey: ugZlmpBv4Xid3oVD\/zAlayVBUW3x7PM517KYKEOm8S8= service: Gaming BAT: (null) >"
+      },
+      "iAD" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:27 +0000",
+        "service" : "<PCSIdentity  pubkey: Y3kzJNDYOzmENAfqXnUtZzH0v6FVDmeQgcs+ee1eC+M= service: iAD BAT: (null) >"
+      },
+      "iBooksSecureData" : {
+        "currentItemModificationTime" : "2023-03-20 22:13:21 +0000",
+        "service" : "<PCSIdentity  pubkey: pMYlPvrY7KaFb4Pe8LLrxScHn\/YL\/IsCXFgl9PbDbzQ= service: iBooksSecureData BAT: 20230320221319;iPhone OS;20C65 >"
+      },
+      "iCloudDrive" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:28 +0000",
+        "service" : "<PCSIdentity  pubkey: YZSCS3CML\/o3ECS8G8haXLvetdGfVP3sodpHYXjiihU= service: iCloudDrive BAT: (null) >"
+      },
+      "IDServicesEngram" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-IDServicesEngram\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-IDServicesEngram}"
+      },
+      "iMessage" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:29 +0000",
+        "service" : "<PCSIdentity  pubkey: dDYAdUiZyT\/JK2xtwmnmUS7vbRzGcDnjZk63G5ur400= service: iMessage BAT: (null) >"
+      },
+      "KeyboardServices" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:27 +0000",
+        "service" : "<PCSIdentity  pubkey: uUIyOOgsRanoDUVDKKMU\/7AyMk+HiYs4ARUoH3EdjzE= service: KeyboardServices BAT: (null) >"
+      },
+      "Maildrop" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:32 +0000",
+        "service" : "<PCSIdentity  pubkey: C+Us6syzwGOcSxA+LBICMfmwV4YG5kNLCdvdiA8hF8k= service: Maildrop BAT: (null) >"
+      },
+      "ManateeSharingTesting" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-ManateeSharingTesting\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-ManateeSharingTesting}"
+      },
+      "MapsSync" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:33 +0000",
+        "service" : "<PCSIdentity  pubkey: O6bjguk0YudYd8xTrQX8LL9TVnmzy+DGxbEsU4ZNvSg= service: MapsSync BAT: (null) >"
+      },
+      "MasterKey" : {
+        "currentItemModificationTime" : "2021-11-23 21:48:22 +0000",
+        "service" : "<PCSIdentity  pubkey: 44nfKskYZDDzHuMU445aF\/YGMQww5yj\/91bCFcDnO1U= service: MasterKey BAT: 20141015115805;iPhone OS;12A405 >"
+      },
+      "Messages" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-Messages\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-Messages}"
+      },
+      "Messages2" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-Messages2\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-Messages2}"
+      },
+      "Messages3" : {
+        "currentItemModificationTime" : "2024-11-18 00:45:00 +0000",
+        "service" : "<PCSIdentity  pubkey: eXlz3COo+pHoweAkH2NyzbVv+ApOgmW0D2av2fOIeXc= service: Messages3 BAT: 20241118004459;iPhone OS;22B83 >"
+      },
+      "MessagesDevelopment" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-MessagesDevelopment\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-MessagesDevelopment}"
+      },
+      "News" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:30 +0000",
+        "service" : "<PCSIdentity  pubkey: qtsV+PYXSPKlH0BskmPVM0pZcl+tjEEExi+dVQYH32U= service: News BAT: (null) >"
+      },
+      "Notes" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:31 +0000",
+        "service" : "<PCSIdentity  pubkey: Cp+p9Fdkfy7UOb6H7ZCJpllg+tgDZDPE1HXDkyht1c4= service: Notes BAT: (null) >"
+      },
+      "Photos" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:31 +0000",
+        "service" : "<PCSIdentity  pubkey: +HERyOsRWDVcRH8sT0qIaQqGNo7ZUu5zjlA8m\/JXnpk= service: Photos BAT: (null) >"
+      },
+      "Raw" : {
+
+      },
+      "Rawhide" : {
+        "currentItemModificationTime" : "2024-11-18 00:44:59 +0000",
+        "service" : "<PCSIdentity  pubkey: sq7UG+YwBtqki38drS\/4\/wqseVCYKfsre7RzIrH8Xf8= service: Rawhide BAT: 20241118004458;iPhone OS;22B83 >"
+      },
+      "Rawhide3" : {
+        "error" : "Error Domain=securityd Code=-25300 \"No current item pointer found for com.apple.ProtectedCloudStorage-Rawhide3\" UserInfo={NSLocalizedDescription=No current item pointer found for com.apple.ProtectedCloudStorage-Rawhide3}"
+      },
+      "Safari" : {
+        "currentItemModificationTime" : "2021-11-23 21:48:23 +0000",
+        "service" : "<PCSIdentity  pubkey: yQLItIw6XEWyUOxC83QXEZAXvh8HuAtJuD9u2pPGmVk= service: Safari BAT: (null) >"
+      },
+      "Sharing" : {
+        "currentItemModificationTime" : "2021-11-23 21:48:23 +0000",
+        "service" : "<PCSIdentity  pubkey: rpIgnOm1hVTNoX7wA47oR9VdcpIyJgcxUtmZIDFjzpM= service: Sharing BAT: (null) >"
+      },
+      "SiriActions" : {
+        "currentItemModificationTime" : "2020-05-18 06:13:38 +0000",
+        "service" : "<PCSIdentity  pubkey: d\/5rMVLyPMe0r7F4G40PTW\/UHpnwFbNCA71dpK1oWYM= service: SiriActions BAT: 20200518061317;iPhone OS;16D57 >"
+      },
+      "TTYCallHistory" : {
+        "currentItemModificationTime" : "2021-12-08 22:09:32 +0000",
+        "service" : "<PCSIdentity  pubkey: Oq7U7JZcfFZ0YjROZqSsiG1aowl2PYu2VDcgB9Iv9gs= service: TTYCallHistory BAT: (null) >"
+      }
+    },
+    "identities" : {
+      "AccessibilityVOPronunciation3" : [
+        {
+          "current" : true,
+          "key_id" : "6ee75709829d74f4fa1bf18f9ddeae99d0425519",
+          "key_id_websafe" : "budXCYKddPT6G_GPnd6umdBCVRk",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "GRHgAShtnbwWVM3wdcLFPTS6LC3CCXH3ImBzT6RWVCg=",
+          "service_id" : 53
+        }
+      ],
+      "AccountData" : [
+        {
+          "current" : true,
+          "key_id" : "78f9594c2756512c196532cc7b592c710b9f2047",
+          "key_id_websafe" : "ePlZTCdWUSwZZTLMe1kscQufIEc",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "p3InYsnZNNaz5YsuwU+2pZdaOWJt97pdlTPP+R606hc=",
+          "service_id" : 38
+        }
+      ],
+      "Activities" : [
+        {
+          "current" : true,
+          "key_id" : "3a9f48037d16bcf0962a034c1397cd733bce34c7",
+          "key_id_websafe" : "Op9IA30WvPCWKgNME5fNczvONMc",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "3yXazX8a5y6wfx7CfEYeRnr546MeD8uzhDUl2KLs4Ks=",
+          "service_id" : 14
+        }
+      ],
+      "Backup" : [
+        {
+          "current" : true,
+          "key_id" : "9d8a4ce55b2a5fa4ab8d13ae8927299d81cc5f83",
+          "key_id_websafe" : "nYpM5VsqX6SrjROuiScpnYHMX4M",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "60y6oN9SJdI7SoZpnyzGH0P7c1AlyqxDVBaodXNDpUM=",
+          "service_id" : 8
+        }
+      ],
+      "BluetoothCloudPairing2" : [
+        {
+          "build_time" : "20220118135608;iPhone OS;19A348",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "2571af4516117d75717cdbe80000152137e60513",
+          "key_id_websafe" : "JXGvRRYRfXVxfNvoAAAVITfmBRM",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "V7BXcW\/HWmCmuxnEE0U52\/VEmMyvFTHDiaojQg9l1XA=",
+          "service_id" : 50
+        },
+        {
+          "build_time" : "20211123223624;iPhone OS;19B74",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : false,
+          "key_id" : "1a15ec3a09e05388841d51ae0c0168c9be33d797",
+          "key_id_websafe" : "GhXsOgngU4iEHVGuDAFoyb4z15c",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "kRhrjsXbXMeXmqiXSgEZLG3fNxvoxqKWj4REqzjjzTQ=",
+          "service_id" : 50
+        }
+      ],
+      "BTAnnouncement" : [
+        {
+          "current" : true,
+          "key_id" : "d6ad532b5edd66afe52d9b887fec876c782a21b9",
+          "key_id_websafe" : "1q1TK17dZq_lLZuIf-yHbHgqIbk",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "vavs57ytE+jOyujn0ea0vTmWcX3UfqKkTcowWqhE7kE=",
+          "service_id" : 19
+        }
+      ],
+      "BTPairing" : [
+        {
+          "current" : true,
+          "key_id" : "f6551125df1783b22cc3aa7c8196516933ae69c0",
+          "key_id_websafe" : "9lURJd8Xg7Isw6p8gZZRaTOuacA",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "6I+H5KZ4O7mOw7\/ID6HOTqhf6ZRufxIaJayb2M0Z+zI=",
+          "service_id" : 18
+        }
+      ],
+      "BulkMail" : [
+        {
+          "current" : true,
+          "key_id" : "957c5415fcc04e2efc09539aa3d08432e51f0245",
+          "key_id_websafe" : "lXxUFfzATi78CVOao9CEMuUfAkU",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "FlQbhH5eyGf7lz8M0OOt+6narJnnbViU16Ni20VOLAk=",
+          "service_id" : 17
+        }
+      ],
+      "CloudKit" : [
+        {
+          "current" : true,
+          "key_id" : "82a85a4c8cc6e274f89c7933d1dbf93594e19969",
+          "key_id_websafe" : "gqhaTIzG4nT4nHkz0dv5NZThmWk",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "+XjcNX52tnyr\/+UXdat8aX2TrgQk6YaN695Xe2Q8Mts=",
+          "service_id" : 4
+        }
+      ],
+      "CloudKitApple" : [
+        {
+          "current" : true,
+          "key_id" : "7afae65585ca51f6f3b41ff29d69128554f262b7",
+          "key_id_websafe" : "evrmVYXKUfbztB_ynWkShVTyYrc",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "yIkLCxaiObe20Tepif\/7jjAmo6ZfGPEDIPJ3u7mNXEM=",
+          "service_id" : 23
+        }
+      ],
+      "com.apple.Accessibility" : [
+        {
+          "build_time" : "20210807022249;iPhone OS;18F72",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : true,
+          "key_id" : "5bf151c5b21fbbe19d09fab86027ab979c6c9534",
+          "key_id_websafe" : "W_FRxbIfu-GdCfq4YCerl5xslTQ",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "Yb3tYZAIjYewFnaK7adcULgOLDFlxtV0XnlrQRjiTcs=",
+          "service_id" : 65
+        }
+      ],
+      "com.apple.accessibility.voicebanking" : [
+        {
+          "build_time" : "20240531185625;iPhone OS;21D50",
+          "current" : false,
+          "key_id" : "f7e16dfa25759bf9176bc07257a7e906c6175c3b",
+          "key_id_websafe" : "9-Ft-iV1m_kXa8ByV6fpBsYXXDs",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "NL5LXTW7MpD393PHqNuoavuz7ulUzpoc8MpEMCqbfHg=",
+          "service_id" : 220
+        }
+      ],
+      "com.apple.amp-ae.metricskit.identifiers" : [
+        {
+          "build_time" : "20220112153845;iPhone OS;19C57",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "37d294c35417def21bc852f766c12bcf6aa437ef",
+          "key_id_websafe" : "N9KUw1QX3vIbyFL3ZsErz2qkN-8",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "A+ExtuUkg6o5HsfK73c7VnRmVY48el09vm2f5iWrdEc=",
+          "service_id" : 93
+        }
+      ],
+      "com.apple.appleaccount.custodian" : [
+        {
+          "build_time" : "20211229170410;iPhone OS;19B74",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "44764963e33bf1f93d7520e644330cf136b56f14",
+          "key_id_websafe" : "RHZJY-M78fk9dSDmRDMM8Ta1bxQ",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "yoG\/gaaLLUWnP6UsmfpYAOv+EE+LIACn+8UFgFm1GSU=",
+          "service_id" : 98
+        }
+      ],
+      "com.apple.appleaccount.identity.private" : [
+        {
+          "build_time" : "20240529095709;iPhone OS;21D50",
+          "current" : false,
+          "key_id" : "bd8e3e3d56601a30f5c51564eec5ad430a4badef",
+          "key_id_websafe" : "vY4-PVZgGjD1xRVk7sWtQwpLre8",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "2KJIwBG0AQi56QrdYAjuRGsLgjbp9tTNyIDqlWsOs00=",
+          "service_id" : 229
+        }
+      ],
+      "com.apple.applemediaservices.metrics" : [
+        {
+          "build_time" : "20210617144152;iPhone OS;18F72",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : true,
+          "key_id" : "9be1cd81f6c47089c31534814deb546c37a0ab08",
+          "key_id_websafe" : "m-HNgfbEcInDFTSBTetUbDegqwg",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "JzX8tmlNj1VgYz3nty+slV4IXXUGhv0SJwyxEZafeII=",
+          "service_id" : 99
+        }
+      ],
+      "com.apple.applemediaservices.multiuser" : [
+        {
+          "build_time" : "20200518114141;iPhone OS;17A878",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "0f63d944284305f90a276dde7cef5044119c64df",
+          "key_id_websafe" : "D2PZRChDBfkKJ23efO9QRBGcZN8",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "1gYc\/Ih+bgd\/3eYjystN8LlRkiQmWfB\/\/5asSiIrpSk=",
+          "service_id" : 85
+        }
+      ],
+      "com.apple.Avatar" : [
+        {
+          "build_time" : "20200518064002;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "e534f7d08dd3258dad28237a544a32b4f3ac6c69",
+          "key_id_websafe" : "5TT30I3TJY2tKCN6VEoytPOsbGk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "WzosGa63qzFb9YUEUvN0PhdAnIl0II02eHBk77cN\/mA=",
+          "service_id" : 64
+        }
+      ],
+      "com.apple.biome.sync" : [
+        {
+          "build_time" : "20221219131340;iPhone OS;20C65",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "2c2a3b24f26a1ab41de219ae52b43e820e67fcca",
+          "key_id_websafe" : "LCo7JPJqGrQd4hmuUrQ-gg5n_Mo",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "WyZdVCtu3LTnYmgiMFARXuYDT8QU+jYcqafYdOxF6FQ=",
+          "service_id" : 212
+        }
+      ],
+      "com.apple.bluetooth.services" : [
+        {
+          "build_time" : "20201128000900;iPhone OS;18B92",
+          "circleFingerPrint" : "pg\/eglcZKKAICZofO7H\/No2lGDeSLR\/7dr8\/EctV9JQ=",
+          "current" : true,
+          "key_id" : "3732c144b591e4f11a5d4be3b038803e679426da",
+          "key_id_websafe" : "NzLBRLWR5PEaXUvjsDiAPmeUJto",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "MmJXATooSQcp4vkjvWVz0poKTRx9ynX1aNll4YFY+Ws=",
+          "service_id" : 87
+        }
+      ],
+      "com.apple.callhistory.cloud-storage" : [
+        {
+          "build_time" : "20200518063946;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "d135ba633f0cd1d52fdea36a685fff50f05ea517",
+          "key_id_websafe" : "0TW6Yz8M0dUv3qNqaF__UPBepRc",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "B84EkC941YGMXoNZtgjSwz8jYZYREGUNj4YUfrWSwqY=",
+          "service_id" : 73
+        }
+      ],
+      "com.apple.CloudKitFeatures" : [
+        {
+          "build_time" : "20241214004636;iPhone OS;22C152",
+          "current" : false,
+          "key_id" : "bdd8c9281218e0282c4b58fd539fabe3fd53fd46",
+          "key_id_websafe" : "vdjJKBIY4CgsS1j9U5-r4_1T_UY",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "H4anOYPgT7aPHoNH86ckLpsOmArYZOetR18075cDsvI=",
+          "service_id" : 233
+        }
+      ],
+      "com.apple.CloudKitFeaturesStingray" : [
+        {
+          "current" : true,
+          "key_id" : "8e05a25f96368adabf18bce501456d4ddb9e6fa4",
+          "key_id_websafe" : "jgWiX5Y2itq_GLzlAUVtTdueb6Q",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "8yXJUXMmY1iJ1mES6XwnkFxSltbQdKwFPgMS6GfGeao=",
+          "service_id" : 242
+        }
+      ],
+      "com.apple.contacts.posters" : [
+        {
+          "build_time" : "20250922105204;iPhone OS;23A341",
+          "current" : false,
+          "key_id" : "943799a246079bada6fcd6358ec4394d842c8c8f",
+          "key_id_websafe" : "lDeZokYHm62m_NY1jsQ5TYQsjI8",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "a3kSVvfHbMMIt6pdZkJp3I+cwNuqbMxcAOoUHie4WKw=",
+          "service_id" : 250
+        }
+      ],
+      "com.apple.coreidv.service-messages" : [
+        {
+          "build_time" : "20210101070934;iPhone OS;18B121",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : true,
+          "key_id" : "54ffad7f46b8d4c673e689a19807c8d831278586",
+          "key_id_websafe" : "VP-tf0a41MZz5omhmAfI2DEnhYY",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "WNXdIO9tQZkneL9v03UMxdyo0NJHdg7TvD3hz43VFJ8=",
+          "service_id" : 71
+        },
+        {
+          "build_time" : "20210102155126;iPhone OS;18B121",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : false,
+          "key_id" : "60d7d018fa9cff51b42bef42cdd43b93156e3bc2",
+          "key_id_websafe" : "YNfQGPqc_1G0K-9CzdQ7kxVuO8I",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "sUbVkvxXVSN+bc0\/Z9xLCRdxEfQEWkt43xGX2XlgU3o=",
+          "service_id" : 71
+        }
+      ],
+      "com.apple.donotdisturbd" : [
+        {
+          "build_time" : "20211011162323;iPhone OS;19A348",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : true,
+          "key_id" : "d7816ee11253878f13851f44fcd586f206fba049",
+          "key_id_websafe" : "14Fu4RJTh48ThR9E_NWG8gb7oEk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "0Es1PCWlZrPTJW3Nl0eIobKfbvXp7tQbNW0bXEgr\/fk=",
+          "service_id" : 202
+        }
+      ],
+      "com.apple.energykit.ami.LimitedPeers" : [
+        {
+          "build_time" : "20241022104724;iPhone OS;22A3370",
+          "current" : false,
+          "key_id" : "33833abdc6c5dfdaa384861b057ea2e3c250e811",
+          "key_id_websafe" : "M4M6vcbF39qjhIYbBX6i48JQ6BE",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "6oQEknkzEU3aohAyZjgvRzICT\/Mw7Dqv13M2g1ALpD0=",
+          "service_id" : 238
+        }
+      ],
+      "com.apple.familycontrols.container" : [
+        {
+          "build_time" : "20240604135319;iPhone OS;20G81",
+          "current" : false,
+          "key_id" : "fc2c0a229e0d359694b7b037ad7056c9337377ea",
+          "key_id_websafe" : "_CwKIp4NNZaUt7A3rXBWyTNzd-o",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "klZ8qTDTDJR7g7nlPA8WmlUdBrulqvO73jhUTTRIHzY=",
+          "service_id" : 205
+        },
+        {
+          "build_time" : "20240604135316;iPhone OS;21F90",
+          "current" : false,
+          "key_id" : "c15975d93f7a785fb2697890fcdfa818cd1fdf58",
+          "key_id_websafe" : "wVl12T96eF-yaXiQ_N-oGM0f31g",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "dfEpgTepyo4wfc+MiHRYGlt7GorUnwp04yNZ67Z0eoA=",
+          "service_id" : 205
+        }
+      ],
+      "com.apple.findmy" : [
+        {
+          "build_time" : "20220118135607;iPhone OS;19A348",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "92f93f0878422de22c30395a43e9f7803393e949",
+          "key_id_websafe" : "kvk_CHhCLeIsMDlaQ-n3gDOT6Uk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "UFKp\/MtIinATX9ImBMmilWYE0UOr2mq\/FmIbdAOg0IM=",
+          "service_id" : 84
+        },
+        {
+          "build_time" : "20201128000847;iPhone OS;18B92",
+          "circleFingerPrint" : "pg\/eglcZKKAICZofO7H\/No2lGDeSLR\/7dr8\/EctV9JQ=",
+          "current" : true,
+          "key_id" : "99e5bf8f022fd9faeb350afe9c67bb045b2360e4",
+          "key_id_websafe" : "meW_jwIv2frrNQr-nGe7BFsjYOQ",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "LGzpmnpYFduh4xYFelEGeQ4U05Y18T8ItDuh7BQO+\/4=",
+          "service_id" : 84
+        }
+      ],
+      "com.apple.findmy.localfindable" : [
+        {
+          "build_time" : "20240604135221;iPhone OS;21F90",
+          "current" : false,
+          "key_id" : "519d490b1d214994f5c999c5a3a25c86c2496c70",
+          "key_id_websafe" : "UZ1JCx0hSZT1yZnFo6JchsJJbHA",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "eLLNL5xtrs0UNlVkYKiXfW6\/ohvpJBsSrDlCMlpBbhg=",
+          "service_id" : 232
+        }
+      ],
+      "com.apple.Fitness.ActivitySharing" : [
+        {
+          "build_time" : "20241022011515;iPhone OS;22A3370",
+          "current" : false,
+          "key_id" : "98dacf0fec3d7ad96a81a0bda4172963e7cb4acb",
+          "key_id_websafe" : "mNrPD-w9etlqgaC9pBcpY-fLSss",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "zSLBJmLTX7ARhBdPlysbRUNvGxsXpuDfnEo+v2u0U58=",
+          "service_id" : 222
+        }
+      ],
+      "com.apple.FTMessageStoreService" : [
+        {
+          "build_time" : "20240528221012;iPhone OS;21D50",
+          "current" : false,
+          "key_id" : "58c027d90384e773efd5451d9cdfd7049b1252a0",
+          "key_id_websafe" : "WMAn2QOE53Pv1UUdnN_XBJsSUqA",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "2zsELltw4O68KshTTNufQCi\/iUQ46JHL+DRJYvinlO0=",
+          "service_id" : 228
+        }
+      ],
+      "com.apple.health.sync2" : [
+        {
+          "build_time" : "20200518061417;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "3b25b589cc8d51aadf1eec3992f0bb043b7e9c91",
+          "key_id_websafe" : "OyW1icyNUarfHuw5kvC7BDt-nJE",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "9G2vOz+3onbraJ+\/z9J+PtnmNfPTxgCX3KLh3mzT6IE=",
+          "service_id" : 44
+        }
+      ],
+      "com.apple.homekit" : [
+        {
+          "build_time" : "20200518114111;iPhone OS;17A878",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "b3ed375d84f46684d3b6251d584e07d24024ceaa",
+          "key_id_websafe" : "s-03XYT0ZoTTtiUdWE4H0kAkzqo",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "+tFZpIl8CTSIHoci\/bZfHKG01h5xv2kOR0FiBMSG+D8=",
+          "service_id" : 83
+        }
+      ],
+      "com.apple.iad-cloudkit" : [
+        {
+          "build_time" : "20200518071552;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "0c6c705129a75c95217c3e3c8d929223a4ae439c",
+          "key_id_websafe" : "DGxwUSmnXJUhfD48jZKSI6SuQ5w",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "+T+yLdWReGo+7coAEOrjitKSrxrP05XxsIotdkGmJWY=",
+          "service_id" : 58
+        }
+      ],
+      "com.apple.icloud-appleid.privacy" : [
+        {
+          "current" : true,
+          "key_id" : "d8761d5292082107bb5aec5af38738baff7ea397",
+          "key_id_websafe" : "2HYdUpIIIQe7Wuxa84c4uv9-o5c",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "BnR1Q\/WktFuqcp3HsIDdRhpfBG6xLaaXsi4O4+bZg+Y=",
+          "service_id" : 63
+        }
+      ],
+      "com.apple.iCloud.CommCenter" : [
+        {
+          "build_time" : "20200616211409;iPhone OS;17E262",
+          "circleFingerPrint" : "pg\/eglcZKKAICZofO7H\/No2lGDeSLR\/7dr8\/EctV9JQ=",
+          "current" : true,
+          "key_id" : "45097c7a2f16c10f1a80ea9793bc1da54d9abe07",
+          "key_id_websafe" : "RQl8ei8WwQ8agOqXk7wdpU2avgc",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "blWs8M2CPJP6sTBL8zm7KWutqqUTZgtMcl8M7mISimU=",
+          "service_id" : 68
+        }
+      ],
+      "com.apple.icloud.events" : [
+        {
+          "current" : true,
+          "key_id" : "0d74691848872ba1c28302c6436875378ea74d83",
+          "key_id_websafe" : "DXRpGEiHK6HCgwLGQ2h1N46nTYM",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "qDOdBD5LceigP+rmvqTZd952vZ+gyegjveN\/xzmFWP0=",
+          "service_id" : 241
+        }
+      ],
+      "com.apple.icloud.searchparty" : [
+        {
+          "build_time" : "20200518071529;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "50fd861733f34f20bdb493f5d85e625371923f81",
+          "key_id_websafe" : "UP2GFzPzTyC9tJP12F5iU3GSP4E",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "9M\/bGSe3CrI\/I5g0fgJ58k8LW55SJaSybQrRJILHODg=",
+          "service_id" : 82
+        }
+      ],
+      "com.apple.journal" : [
+        {
+          "build_time" : "20241104124242;iPhone OS;22A3370",
+          "current" : false,
+          "key_id" : "6628d4b90ed914ecefa0d0396b3986fa782b6149",
+          "key_id_websafe" : "ZijUuQ7ZFOzvoNA5azmG-ngrYUk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "mVOwDlbAR7WJYdvhj0ysLNCwCDu1d2q3XPBUdW+ddzQ=",
+          "service_id" : 214
+        }
+      ],
+      "com.apple.KeyValueService.Encrypted" : [
+        {
+          "current" : true,
+          "key_id" : "2a81e87dd7e9bcec501f60dbadb241f494a847fe",
+          "key_id_websafe" : "KoHofdfpvOxQH2DbrbJB9JSoR_4",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "KDdOTb4QKNOmpNXIOM0ONLKJ0hac0F6sPwxAqOVSVcQ=",
+          "service_id" : 231
+        }
+      ],
+      "com.apple.KeyValueService.EndToEndEncrypted" : [
+        {
+          "build_time" : "20200518071615;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "18d3a34d1e991a5191100c39def4f4e42d4f3e40",
+          "key_id_websafe" : "GNOjTR6ZGlGREAw53vT05C1PPkA",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "mbGkm7498JZuwDexhcevYyvxWBFk3EQLycDnCQ2m4ug=",
+          "service_id" : 77
+        },
+        {
+          "build_time" : "20220813161644;macOS;21G72",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "4d70ba7d58d1fb9b27069d6477b209240595eae3",
+          "key_id_websafe" : "TXC6fVjR-5snBp1kd7IJJAWV6uM",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "gwQsGCsWafaa12M4K9nR+AzaW\/ZdM4y1XK0BwrrikH4=",
+          "service_id" : 77
+        }
+      ],
+      "com.apple.KeyValueService.EndToEndEncrypted.AllPlatforms" : [
+        {
+          "build_time" : "20221219125044;iPhone OS;20C65",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "c532bb539a832502541c9f403d10be6009be60a7",
+          "key_id_websafe" : "xTK7U5qDJQJUHJ9APRC-YAm-YKc",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "GK5WfcyKRNi6vliu8HMXYi\/SimiUHkxtBX0Z73bc1fU=",
+          "service_id" : 96
+        }
+      ],
+      "com.apple.knowledgestore2" : [
+        {
+          "build_time" : "20200518061317;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "b3fde0be5ad209b646670562ace48b03ec989451",
+          "key_id_websafe" : "s_3gvlrSCbZGZwVirOSLA-yYlFE",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "wnLob8XrAKXQJCDiZ+CbQ2BjEg2wkMlam8r2CKaUE0s=",
+          "service_id" : 47
+        }
+      ],
+      "com.apple.KTAccountKey" : [
+        {
+          "build_time" : "20241022011410;iPhone OS;22A3370",
+          "current" : false,
+          "key_id" : "165b46a223f7275bb634d65da5c457a43c7a02c1",
+          "key_id_websafe" : "FltGoiP3J1u2NNZdpcRXpDx6AsE",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "jNsznuscU8BhgIJRCFZgb3CemMI87xKSG9NA4Sps60Q=",
+          "service_id" : 209
+        },
+        {
+          "build_time" : "20211229173533;iPhone OS;19C57",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : true,
+          "key_id" : "82a548f54052231dd5406f20b98089bb841d7ea1",
+          "key_id_websafe" : "gqVI9UBSIx3VQG8guYCJu4QdfqE",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "Eb2gl\/aqVWXTr3X4OKRtq3ta+K8YXiIk3wy\/JAe3ki0=",
+          "service_id" : 209
+        }
+      ],
+      "com.apple.locationd.clx" : [
+        {
+          "build_time" : "20240611183932;iPhone OS;21F90",
+          "current" : false,
+          "key_id" : "10afdf1168b210a053b466c712189e521a1f18c9",
+          "key_id_websafe" : "EK_fEWiyEKBTtGbHEhieUhofGMk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "PtpmnrJj3IRGpwB0EeeXSzQHXA4tH\/8KGqqnQrehtko=",
+          "service_id" : 227
+        }
+      ],
+      "com.apple.mail.preferences" : [
+        {
+          "build_time" : "20200518063946;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "ea00cf7462a6b1ae295c323a2352f25a9ace42b2",
+          "key_id_websafe" : "6gDPdGKmsa4pXDI6I1LyWprOQrI",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "HcVowbS7ZN+0hvWGuRDjlS87fRIjEuFj5S5lrxkMR6M=",
+          "service_id" : 66
+        }
+      ],
+      "com.apple.Maps.Sync.secure" : [
+        {
+          "build_time" : "20211123220311;iPhone OS;19A348",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : false,
+          "key_id" : "09fcd2e34bc05a98e41fa53241803caa8d1a57ac",
+          "key_id_websafe" : "CfzS40vAWpjkH6UyQYA8qo0aV6w",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "oTj6KDMe6un8WH4BuPScDNi6FmFtmo18f8S+lbGZFho=",
+          "service_id" : 75
+        },
+        {
+          "build_time" : "20200519141725;iPhone OS;17A878",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "1f6dd9eeb55d022bc28ee76c6cc149ab880f5fb0",
+          "key_id_websafe" : "H23Z7rVdAivCjudsbMFJq4gPX7A",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "+iiI86hCAotUUpqlHrcFPVW2HJGnZLvj2g\/Vx3mJs7w=",
+          "service_id" : 75
+        }
+      ],
+      "com.apple.mediaservicesbroker.container" : [
+        {
+          "build_time" : "20220207231753;iPhone OS;19C57",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "c49f4bc2570194e543a93d6d63fa25b650128d04",
+          "key_id_websafe" : "xJ9LwlcBlOVDqT1tY_oltlASjQQ",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "h8vVmBVMaBvo8+KdWjsvLX0Rhxo3ZMVuyy3ro3ahQVs=",
+          "service_id" : 91
+        },
+        {
+          "build_time" : "20201128000900;iPhone OS;18B92",
+          "circleFingerPrint" : "pg\/eglcZKKAICZofO7H\/No2lGDeSLR\/7dr8\/EctV9JQ=",
+          "current" : true,
+          "key_id" : "57f05748225ca6c7a2141a04fc942c6bc0ba1658",
+          "key_id_websafe" : "V_BXSCJcpseiFBoE_JQsa8C6Flg",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "qgtJgkqnZc4Xx66i6wFLy0Z60J23FgN3pJyjQXbsWaQ=",
+          "service_id" : 91
+        }
+      ],
+      "com.apple.NetworkingKnowledgePlane" : [
+        {
+          "build_time" : "20250922105203;iPhone OS;23A341",
+          "current" : false,
+          "key_id" : "65d84414309d78ff6a2319b4f95b6ee8355c9d26",
+          "key_id_websafe" : "ZdhEFDCdeP9qIxm0-Vtu6DVcnSY",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "2189TPT\/LRE49mi4QYoi+nO2SWxw05dE5XyzkqOeW7k=",
+          "service_id" : 249
+        }
+      ],
+      "com.apple.news.private.secure2" : [
+        {
+          "build_time" : "20220220172139;iPhone OS;19D52",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "f3d255329eb0bd0ec0eae09bba49348dd0565643",
+          "key_id_websafe" : "89JVMp6wvQ7A6uCbukk0jdBWVkM",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "BScBlbvH5aImDw7+gjsPnkq2IFcnentJASTeeiygM1E=",
+          "service_id" : 49
+        }
+      ],
+      "com.apple.passes.sync.secure" : [
+        {
+          "build_time" : "20220610220603;iPhone OS;19F77",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "c3162b3e208a97f2eac25915f786d4b2e1d92409",
+          "key_id_websafe" : "wxYrPiCKl_LqwlkV94bUsuHZJAk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "Zom0kuaE3NfXCm2fUgX1XfdtsST+v2BFL4I6ezNZarg=",
+          "service_id" : 208
+        }
+      ],
+      "com.apple.pay.finance" : [
+        {
+          "build_time" : "20221219125209;iPhone OS;20C65",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "2165eba8ab318eabeadec4dfe3e46ff67f96b490",
+          "key_id_websafe" : "IWXrqKsxjqvq3sTf4-Rv9n-WtJA",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "9SPd5u9a2WGFYIpxiUSup\/0UUtZoLnrLCFv4Dx4KYQU=",
+          "service_id" : 95
+        }
+      ],
+      "com.apple.private.ids.kt" : [
+        {
+          "build_time" : "20191127051243;iPhone OS;17A878",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "c6b468d659abf60265123e72ea36f20eba96b1b3",
+          "key_id_websafe" : "xrRo1lmr9gJlEj5y6jbyDrqWsbM",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "4qSMvT7kMoX8TffPF0hQpa8ieLqMWZa4oX4bWFcWpq4=",
+          "service_id" : 76
+        }
+      ],
+      "com.apple.ProactivePredictionsBackup" : [
+        {
+          "build_time" : "20211123213807;iPhone OS;19A348",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : true,
+          "key_id" : "657bbddbb93a60c5d59f1ad0a32e4c59fa2534e0",
+          "key_id_websafe" : "ZXu927k6YMXVnxrQoy5MWfolNOA",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "CmOjdObBUXqJWk8VL38KJyjmy9KuUTfbqT7N0cd+qEM=",
+          "service_id" : 86
+        }
+      ],
+      "com.apple.reminders" : [
+        {
+          "current" : true,
+          "key_id" : "1b0c0003e85248442f3c7f3a255db9963b68c360",
+          "key_id_websafe" : "GwwAA-hSSEQvPH86JV25ljtow2A",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "rHNBHKSrFVs0t3SkTKXXQ1JENgx3CyBiKC8b8VR5hZk=",
+          "service_id" : 210
+        }
+      ],
+      "com.apple.routined2" : [
+        {
+          "build_time" : "20200518063946;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "7714780ff405ad4ad1ab636956132bb96f7f6e9a",
+          "key_id_websafe" : "dxR4D_QFrUrRq2NpVhMruW9_bpo",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "AhOuXS4A0L6v85327QJ77T+5zgibf49i9oKBSpcSvKk=",
+          "service_id" : 43
+        }
+      ],
+      "com.apple.SafariShared.CloudTabs" : [
+        {
+          "build_time" : "20200518071517;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "ad634b5bc400a8ad405634eddd141b310191f456",
+          "key_id_websafe" : "rWNLW8QAqK1AVjTt3RQbMQGR9FY",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "A3JfU8bfWGLp7N2suz5f6W2V3vAHMgQ7lzRwuw08tPY=",
+          "service_id" : 72
+        }
+      ],
+      "com.apple.SafariShared.History" : [
+        {
+          "build_time" : "20200518064138;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "f9619500758ed24f350180ce00f6b26ddaf587be",
+          "key_id_websafe" : "-WGVAHWO0k81AYDOAPaybdr1h74",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "1GyZRIuHUh0lcL3CTTv5gCvnR9K06gVAB\/VLdGoS8ok=",
+          "service_id" : 67
+        }
+      ],
+      "com.apple.SafetyMonitor.SafetyCache" : [
+        {
+          "build_time" : "20240528220439;iPhone OS;21D50",
+          "current" : false,
+          "key_id" : "9dd05f446f459fb9d5b1b8e64db7b806cec7e8f4",
+          "key_id_websafe" : "ndBfRG9Fn7nVsbjmTbe4Bs7H6PQ",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "L8IPh\/1LfVk+Mp0O26Roq9YvnK73eg2QmUQ8nk1YxXQ=",
+          "service_id" : 224
+        }
+      ],
+      "com.apple.security.keychain.shared" : [
+        {
+          "build_time" : "20240528220556;iPhone OS;21D50",
+          "current" : false,
+          "key_id" : "2496133f1e6644bb74833ed3954d1eaeeecf37a2",
+          "key_id_websafe" : "JJYTPx5mRLt0gz7TlU0eru7PN6I",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "Tk0Ys6ML4Ourdnw7buK+M21SP5TWobUXzPbx7ZsF\/nQ=",
+          "service_id" : 211
+        }
+      ],
+      "com.apple.seymour" : [
+        {
+          "build_time" : "20250922111348;iPhone OS;23A341",
+          "current" : false,
+          "key_id" : "0b7fe8798d7523ac21c9d8203ba637293cc5648b",
+          "key_id_websafe" : "C3_oeY11I6whydggO6Y3KTzFZIs",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "uHIjA3rgdrtiVB32xGSuu0tE4eo3GZVBKcnE3iQ6Vkk=",
+          "service_id" : 88
+        }
+      ],
+      "com.apple.siri.data" : [
+        {
+          "build_time" : "20220118135606;iPhone OS;19A348",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "c302108e066aaf3e7daed7877a9e6368c735f031",
+          "key_id_websafe" : "wwIQjgZqrz59rteHep5jaMc18DE",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "lGjU5CagGbBpyVJPlQTjKgaEKGAK+UwgK3lKtE8CpvA=",
+          "service_id" : 80
+        },
+        {
+          "build_time" : "20191127035106;iPhone OS;17A878",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "ee06d5f005220dc81530228d2e02081d752981a6",
+          "key_id_websafe" : "7gbV8AUiDcgVMCKNLgIIHXUpgaY",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "weRu5BJoSsy56FFJmM6DrgTdNuxAFd8aJ8Ej73MqXXg=",
+          "service_id" : 80
+        }
+      ],
+      "com.apple.siri.knowledge2" : [
+        {
+          "build_time" : "20220813161654;macOS;21G72",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "3e69105fd6dc102b9007c42475a48d301ac41e07",
+          "key_id_websafe" : "PmkQX9bcECuQB8QkdaSNMBrEHgc",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "\/ZwVvbGpwEL\/J9SHfqNLFUWhBCbI7u+pAyak+KCOwTE=",
+          "service_id" : 46
+        },
+        {
+          "build_time" : "20200518063946;iPhone OS;17E262",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "3c95351f7d4e50871387ec7c7089cee634bb6b0d",
+          "key_id_websafe" : "PJU1H31OUIcTh-x8cInO5jS7aw0",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "xQ6qgJr65b7oLIKq+vasVIYLNiorSBRPcmoozZFDGQg=",
+          "service_id" : 46
+        }
+      ],
+      "com.apple.siri.profile2" : [
+        {
+          "build_time" : "20200518061317;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "08426451324aa3e5cccec4501e686f7dfd5fa3f2",
+          "key_id_websafe" : "CEJkUTJKo-XMzsRQHmhvff1fo_I",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "ku\/zpg9\/S4\/\/ja3QsT12iWdfRzn8pXbWuYd92BcP65E=",
+          "service_id" : 45
+        }
+      ],
+      "com.apple.statuskit" : [
+        {
+          "build_time" : "20211123213715;iPhone OS;19A348",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : true,
+          "key_id" : "cea5632e5e8205afcb4d85d559ed1b7d67585f29",
+          "key_id_websafe" : "zqVjLl6CBa_LTYXVWe0bfWdYXyk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "zhW0J52m6EX7ryetLm7xBxe5HMibdZ7NFX4VJNQz44c=",
+          "service_id" : 200
+        },
+        {
+          "build_time" : "20211123220604;iPhone OS;19B74",
+          "circleFingerPrint" : "zpXgs\/OEYpvRcOR3uO2QQ7JdXZ+YMC6QTzFjPRZKed4=",
+          "current" : false,
+          "key_id" : "be6807fd604f7d148633988983b9ddcb6868ffa9",
+          "key_id_websafe" : "vmgH_WBPfRSGM5iJg7ndy2ho_6k",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "RN0CxmDvzp0FFnoRmG51j2rO80hoa4BcQmsLBna2mdE=",
+          "service_id" : 200
+        }
+      ],
+      "com.apple.stickers.user" : [
+        {
+          "build_time" : "20240531185828;iPhone OS;21D50",
+          "current" : false,
+          "key_id" : "d330ca6d1c4e4180b182c0c8af3813cbf7521e96",
+          "key_id_websafe" : "0zDKbRxOQYCxgsDIrzgTy_dSHpY",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "FvSvVwvpPOrPQsdZ10D2VdA0ZfIpJHf23ljF366RHfs=",
+          "service_id" : 225
+        }
+      ],
+      "com.apple.stocks.private" : [
+        {
+          "build_time" : "20220112012644;iPhone OS;19C57",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "287f601c5eb8e54cf8a5627fa5dddc24c71fd680",
+          "key_id_websafe" : "KH9gHF645Uz4pWJ_pd3cJMcf1oA",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "Fdt+NIhiHCnDmPDWkLNmOKD3VngFo3Y5ia945HdZDgM=",
+          "service_id" : 59
+        }
+      ],
+      "com.apple.tdg-wb" : [
+        {
+          "build_time" : "20250312003756;iPhone OS;22E5222f",
+          "current" : false,
+          "key_id" : "fddf672893f55fc79a99b77bbc2c5dadce33c161",
+          "key_id_websafe" : "_d9nKJP1X8eambd7vCxdrc4zwWE",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "Ej9kiCaPUyZKPmcut6ufkfGqyuOLT5gcel78\/+R+8dE=",
+          "service_id" : 245
+        }
+      ],
+      "com.apple.textinput.KeyboardServices.Secure2" : [
+        {
+          "build_time" : "20200518061317;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "d1c1dc51fe976f363e4cc8f6c7cfd11217c5d840",
+          "key_id_websafe" : "0cHcUf6XbzY-TMj2x8_REhfF2EA",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "TQJw5Akm+uhRsT+d7BZkrLlC9QpsiilD3lhOPvEUqy8=",
+          "service_id" : 42
+        }
+      ],
+      "com.apple.translation" : [
+        {
+          "build_time" : "20250414144354;iPhone OS;22E240",
+          "current" : false,
+          "key_id" : "a918c7b24315ca5679122a2f30763ee827d8d0f4",
+          "key_id_websafe" : "qRjHskMVylZ5EiovMHY-6CfY0PQ",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "v3a5b9UJznZwartOncQYZf1dEDCQ3XVzrQ7kFrb0Y3w=",
+          "service_id" : 239
+        }
+      ],
+      "com.apple.transparency.storage" : [
+        {
+          "build_time" : "20240422160327;iPhone OS;20G81",
+          "current" : false,
+          "key_id" : "f7be1f384c72addfd508e1c4a39ff24f041d3ea2",
+          "key_id_websafe" : "974fOExyrd_VCOHEo5_yTwQdPqI",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "hQD0hD\/ISPa7dlllBW+iFjTYQtYIEw\/ADIHOlnHbvSQ=",
+          "service_id" : 215
+        }
+      ],
+      "com.apple.tv.federated" : [
+        {
+          "build_time" : "20240419214142;iPhone OS;20G81",
+          "current" : false,
+          "key_id" : "9a3754d681b207fd0469334efa4d1c405e15857f",
+          "key_id_websafe" : "mjdU1oGyB_0EaTNO-k0cQF4VhX8",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "wXXQOB00SrvnqVjxCDkcW2+c2tUjPNuQUEip3lax8fo=",
+          "service_id" : 221
+        }
+      ],
+      "com.apple.UsageTracking" : [
+        {
+          "build_time" : "20240604180542;iPhone OS;21F90",
+          "current" : false,
+          "key_id" : "49f42a96675659f52cec85a2015ad7c46dbdaaa2",
+          "key_id_websafe" : "SfQqlmdWWfUs7IWiAVrXxG29qqI",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "utQqnCyjQl+kT0y8su5X+smXvnjIuqWlMdP\/Tjt9PuM=",
+          "service_id" : 213
+        }
+      ],
+      "com.apple.vo2max" : [
+        {
+          "build_time" : "20250923094516;iPhone OS;23A341",
+          "current" : false,
+          "key_id" : "39be357465044f9206ef4e2d4b7ad78e79071d5d",
+          "key_id_websafe" : "Ob41dGUET5IG704tS3rXjnkHHV0",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "p335TpATavFcUXXVjvW3\/IF66055SgROqZj7Tiv6IqI=",
+          "service_id" : 97
+        }
+      ],
+      "com.apple.VoiceMemosEncryptedContainer" : [
+        {
+          "current" : true,
+          "key_id" : "2d604fec0d1a3c2c620a2dc2fa2d8bf527908d64",
+          "key_id_websafe" : "LWBP7A0aPCxiCi3C-i2L9SeQjWQ",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "IdDpJDSmgJe2AUpZ7AHXFm06wfQDFC9J\/5BqKqw\/JvM=",
+          "service_id" : 204
+        }
+      ],
+      "com.apple.wallet.paymentservices2" : [
+        {
+          "build_time" : "20200518061317;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "272e95ca5126c1fd8f3c9867f2358c69dcfaa2fa",
+          "key_id_websafe" : "Jy6VylEmwf2PPJhn8jWMadz6ovo",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "DLAwUg7i5Xx5mhAAslsTXo03naPk+tuyoOxxPOM3CkU=",
+          "service_id" : 48
+        }
+      ],
+      "com.apple.watch.setup" : [
+        {
+          "build_time" : "20220112001634;iPhone OS;19C57",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "e380a098020dd193dba7094b70ef450ef9b7fda3",
+          "key_id_websafe" : "44CgmAIN0ZPbpwlLcO9FDvm3_aM",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "KIVoHAXP8xG5btOS6Q8PqDdK4nqRrr6RT1M3jK3eemc=",
+          "service_id" : 69
+        }
+      ],
+      "Continuity" : [
+        {
+          "current" : true,
+          "key_id" : "b2bdac10fc89e87fa79f7ce6b5f4de77f197bdc7",
+          "key_id_websafe" : "sr2sEPyJ6H-nn3zmtfTed_GXvcc",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "0pPeljT5rVmoXaF1z7OagGACxxt2O9U3EtADuzJDn44=",
+          "service_id" : 21
+        }
+      ],
+      "CoreSuggestionsPseudoEvents2" : [
+        {
+          "build_time" : "20200518061317;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "bfe974bc6133401a53db1601cc87a06aba0f8133",
+          "key_id_websafe" : "v-l0vGEzQBpT2xYBzIegaroPgTM",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "Q9v92wJMLyhVLqz1DGQGlEF62XwhD+YgCyVtMhcNRoc=",
+          "service_id" : 51
+        }
+      ],
+      "DigitalHealth" : [
+        {
+          "build_time" : "20240528220449;iPhone OS;21D50",
+          "current" : false,
+          "key_id" : "dc91509017557cd9d45178aab18f3be8c7ece90f",
+          "key_id_websafe" : "3JFQkBdVfNnUUXiqsY876Mfs6Q8",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "0eiLy\/7Ffj0qfkOBFH8QDG8IkyWX7OhRCHa5CMTcu7A=",
+          "service_id" : 62
+        }
+      ],
+      "Escrow" : [
+        {
+          "current" : true,
+          "key_id" : "c8d548af53849cbf598b63ade6a803417f402a8d",
+          "key_id_websafe" : "yNVIr1OEnL9Zi2Ot5qgDQX9AKo0",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "BKBYBpJHV9MLStMx6+JoDncfp+02HXSekFnHyDNeHc+Fy6dUmuPIupiBCttpKTfpQ4GxuLtyml61IYDDshMOqVg=",
+          "service_id" : 5
+        }
+      ],
+      "FDE" : [
+        {
+          "current" : true,
+          "key_id" : "b066b66af14244a9a6fec883c37bec3b5457a0a2",
+          "key_id_websafe" : "sGa2avFCRKmm_siDw3vsO1RXoKI",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "BE\/jpzxCpXqN0wKs6nOe7PKfpgBNBRGcd4EO6hEad2756aTHwlglKijaWwTBdzcmFQETWrBtC5kNxXfpP3oowvo=",
+          "service_id" : 6
+        }
+      ],
+      "Gaming" : [
+        {
+          "current" : true,
+          "key_id" : "a750aac2f709e154fb796981ebe9977bbb2675e2",
+          "key_id_websafe" : "p1CqwvcJ4VT7eWmB6-mXe7smdeI",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "ugZlmpBv4Xid3oVD\/zAlayVBUW3x7PM517KYKEOm8S8=",
+          "service_id" : 15
+        }
+      ],
+      "iAD" : [
+        {
+          "current" : true,
+          "key_id" : "df4f3bbf4167e7d47b2a9dde79c770074ed00eb4",
+          "key_id_websafe" : "3087v0Fn59R7Kp3eecdwB07QDrQ",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "Y3kzJNDYOzmENAfqXnUtZzH0v6FVDmeQgcs+ee1eC+M=",
+          "service_id" : 16
+        }
+      ],
+      "iBooksSecureData" : [
+        {
+          "build_time" : "20230320221319;iPhone OS;20C65",
+          "circleFingerPrint" : "Rd1P1Yr+Qz\/sx1wYm7e3Xl5aGkGpMNg3mX2DnvedFoU=",
+          "current" : false,
+          "key_id" : "fbd4de0eb26fdbde496a2e31867be6976485f6d2",
+          "key_id_websafe" : "-9TeDrJv295Jai4xhnvml2SF9tI",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "pMYlPvrY7KaFb4Pe8LLrxScHn\/YL\/IsCXFgl9PbDbzQ=",
+          "service_id" : 61
+        }
+      ],
+      "iCloudDrive" : [
+        {
+          "current" : true,
+          "key_id" : "391e41fbc5e813503797143402169493f60af01c",
+          "key_id_websafe" : "OR5B-8XoE1A3lxQ0AhaUk_YK8Bw",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "YZSCS3CML\/o3ECS8G8haXLvetdGfVP3sodpHYXjiihU=",
+          "service_id" : 2
+        }
+      ],
+      "iMessage" : [
+        {
+          "current" : true,
+          "key_id" : "1ed5f88daf6ee7163935139cb64b943562797dbb",
+          "key_id_websafe" : "HtX4ja9u5xY5NROctkuUNWJ5fbs",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "dDYAdUiZyT\/JK2xtwmnmUS7vbRzGcDnjZk63G5ur400=",
+          "service_id" : 10
+        }
+      ],
+      "KeyboardServices" : [
+        {
+          "current" : true,
+          "key_id" : "6c10b55a34f24aea31f60ea06ee2f1339ddcc86a",
+          "key_id_websafe" : "bBC1WjTySuox9g6gbuLxM53cyGo",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "uUIyOOgsRanoDUVDKKMU\/7AyMk+HiYs4ARUoH3EdjzE=",
+          "service_id" : 13
+        }
+      ],
+      "Maildrop" : [
+        {
+          "current" : true,
+          "key_id" : "e4a3bccc858e69e8d6166292d875c3e12c7152a1",
+          "key_id_websafe" : "5KO8zIWOaejWFmKS2HXD4SxxUqE",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "C+Us6syzwGOcSxA+LBICMfmwV4YG5kNLCdvdiA8hF8k=",
+          "service_id" : 7
+        }
+      ],
+      "MapsSync" : [
+        {
+          "current" : true,
+          "key_id" : "6034ab996f6bac0131709370063986589593dcc3",
+          "key_id_websafe" : "YDSrmW9rrAExcJNwBjmGWJWT3MM",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "O6bjguk0YudYd8xTrQX8LL9TVnmzy+DGxbEsU4ZNvSg=",
+          "service_id" : 40
+        }
+      ],
+      "MasterKey" : [
+        {
+          "build_time" : "20141015115805;iPhone OS;12A405",
+          "current" : true,
+          "key_id" : "eb81b9025bb94ee0db3249b34a7950993a1c42e1",
+          "key_id_websafe" : "64G5Alu5TuDbMkmzSnlQmTocQuE",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "44nfKskYZDDzHuMU445aF\/YGMQww5yj\/91bCFcDnO1U=",
+          "service_id" : 1
+        }
+      ],
+      "Messages3" : [
+        {
+          "build_time" : "20220118140016;iPhone OS;19A348",
+          "circleFingerPrint" : "o2szNi+Ebi0uUcmNgbDXWUSxzA9JVi+Z6mOwWzuTqck=",
+          "current" : false,
+          "key_id" : "2c9e282771030f44b16fd55f5485a04a34da79ea",
+          "key_id_websafe" : "LJ4oJ3EDD0Sxb9VfVIWgSjTaeeo",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "DbaU4V5g+g3ZaWRLH+vdYos3QssOWbJc7T9asd9RaiE=",
+          "service_id" : 55
+        },
+        {
+          "build_time" : "20200518061627;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "476edf89d13db365aec64e882d99aeaf91a694c2",
+          "key_id_websafe" : "R27fidE9s2Wuxk6ILZmur5GmlMI",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "8mjmOsA2u5YyF7oqSzhoCQ3TgCerzo1HnEc5pLGeBM0=",
+          "service_id" : 55
+        },
+        {
+          "build_time" : "20241022025602;iPhone OS;22A3370",
+          "current" : false,
+          "key_id" : "39a70991046e80ea9c7f48af248c559103688b60",
+          "key_id_websafe" : "OacJkQRugOqcf0ivJIxVkQNoi2A",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "dKgaCPySqV32mnom9PjkVvvqZzX2yzQFsXVOYbk0Q9c=",
+          "service_id" : 55
+        },
+        {
+          "build_time" : "20241118004459;iPhone OS;22B83",
+          "current" : false,
+          "key_id" : "53ab9fd855205c24331e0422e6cc6e2dcccdc6c9",
+          "key_id_websafe" : "U6uf2FUgXCQzHgQi5sxuLczNxsk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "eXlz3COo+pHoweAkH2NyzbVv+ApOgmW0D2av2fOIeXc=",
+          "service_id" : 55
+        }
+      ],
+      "News" : [
+        {
+          "current" : true,
+          "key_id" : "ccba34c09a60cd02c35789be0aff3e8492a0f84b",
+          "key_id_websafe" : "zLo0wJpgzQLDV4m-Cv8-hJKg-Es",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "qtsV+PYXSPKlH0BskmPVM0pZcl+tjEEExi+dVQYH32U=",
+          "service_id" : 11
+        }
+      ],
+      "Notes" : [
+        {
+          "current" : true,
+          "key_id" : "4433b1be695f48e9efef616d1e387b99d4f1236a",
+          "key_id_websafe" : "RDOxvmlfSOnv72FtHjh7mdTxI2o",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "Cp+p9Fdkfy7UOb6H7ZCJpllg+tgDZDPE1HXDkyht1c4=",
+          "service_id" : 9
+        }
+      ],
+      "Photos" : [
+        {
+          "current" : true,
+          "key_id" : "b635339495e670bff583d9d52dd6866b7d7defe5",
+          "key_id_websafe" : "tjUzlJXmcL_1g9nVLdaGa3197-U",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "+HERyOsRWDVcRH8sT0qIaQqGNo7ZUu5zjlA8m\/JXnpk=",
+          "service_id" : 3
+        }
+      ],
+      "Rawhide" : [
+        {
+          "build_time" : "20241118004458;iPhone OS;22B83",
+          "current" : false,
+          "key_id" : "164754bc33b56cae123cf281c72bce630b3f2a1b",
+          "key_id_websafe" : "FkdUvDO1bK4SPPKBxyvOYws_Khs",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "sq7UG+YwBtqki38drS\/4\/wqseVCYKfsre7RzIrH8Xf8=",
+          "service_id" : 54
+        },
+        {
+          "build_time" : "20241022025556;iPhone OS;22A3370",
+          "current" : false,
+          "key_id" : "df2912611a1a64c0f6b92ccf97ad14c5a5d4f815",
+          "key_id_websafe" : "3ykSYRoaZMD2uSzPl60UxaXU-BU",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "7IU3VzWf9jBPsGP48iZzQG4Ns0hECeZbnuFKkDpeedg=",
+          "service_id" : 54
+        }
+      ],
+      "Safari" : [
+        {
+          "current" : true,
+          "key_id" : "2d32e56442fd3299a13f3bc606d910ba1d5629f5",
+          "key_id_websafe" : "LTLlZEL9MpmhPzvGBtkQuh1WKfU",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "yQLItIw6XEWyUOxC83QXEZAXvh8HuAtJuD9u2pPGmVk=",
+          "service_id" : 22
+        }
+      ],
+      "Sharing" : [
+        {
+          "current" : true,
+          "key_id" : "f36fccdc2cab2a655b3c67c232fb7e2b25dad8ae",
+          "key_id_websafe" : "82_M3CyrKmVbPGfCMvt-KyXa2K4",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "rpIgnOm1hVTNoX7wA47oR9VdcpIyJgcxUtmZIDFjzpM=",
+          "service_id" : 12
+        }
+      ],
+      "SiriActions" : [
+        {
+          "build_time" : "20200518061317;iPhone OS;16D57",
+          "circleFingerPrint" : "TfiwRcfxcfzuEx8kBpHBWy8y7nh5G4jXM4+NR1p3oso=",
+          "current" : true,
+          "key_id" : "31816760e7835f8708b038571fcb284ed765ccc9",
+          "key_id_websafe" : "MYFnYOeDX4cIsDhXH8soTtdlzMk",
+          "key_valid" : true,
+          "manatee" : true,
+          "manatee_full" : true,
+          "public_key" : "d\/5rMVLyPMe0r7F4G40PTW\/UHpnwFbNCA71dpK1oWYM=",
+          "service_id" : 60
+        }
+      ],
+      "TTYCallHistory" : [
+        {
+          "current" : true,
+          "key_id" : "640b7231e18375dfedc3dd92633536f611541b0d",
+          "key_id_websafe" : "ZAtyMeGDdd_tw92SYzU29hFUGw0",
+          "key_valid" : true,
+          "manatee" : false,
+          "manatee_full" : false,
+          "public_key" : "Oq7U7JZcfFZ0YjROZqSsiG1aowl2PYu2VDcgB9Iv9gs=",
+          "service_id" : 20
+        }
+      ]
+    }
+  },
+  "status_keychain" : {
+    "circle_status" : "Error",
+    "view_status" : {
+      "PCS-Backup" : "unknown",
+      "PCS-CloudKit" : "unknown",
+      "PCS-Escrow" : "unknown",
+      "PCS-FDE" : "unknown",
+      "PCS-Feldspar" : "unknown",
+      "PCS-iCloudDrive" : "unknown",
+      "PCS-iMessage" : "unknown",
+      "PCS-Maildrop" : "unknown",
+      "PCS-MasterKey" : "unknown",
+      "PCS-Notes" : "unknown",
+      "PCS-Photos" : "unknown"
+    }
+  },
+  "status_keysync" : {
+    "clients" : {
+
+    }
+  },
+  "status_messages" : {
+    "AlreadyInRecoverySet" : 4,
+    "RecoveredToIdentitySet" : 0,
+    "RecoveryIssues" : 0,
+    "rollPending" : false
+  }
+}
