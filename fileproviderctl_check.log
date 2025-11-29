@@ -1,0 +1,66 @@
+~LMD/c{17}s/J/s{17}4.10_20-03-02-0400_iPhone-OS_iPhone_22E240/i{3}g/I{3}g.xml: ❌ Left : is_empty_file 
+~LMD/c{17}s/J/s{17}4.10_20-03-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{41}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}4.10_20-03-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{25}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}4.10_20-03-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{41}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}4.10_20-03-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{36}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}4.02_14-56-02-0400_iPhone-OS_iPhone_22E240/i{3}g/I{3}g.xml: ❌ Left : is_empty_file 
+~LMD/c{17}s/J/s{17}4.02_14-56-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{41}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}4.02_14-56-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{25}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}4.02_14-56-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{41}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}4.02_14-56-02-0400_iPhone-OS_iPhone_22E240/l{2}s/S{4}y/S{36}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}3.26_17-30-46-0400_iPhone-OS_iPhone_22E5222f/i{3}g/I{3}g.xml: ❌ Left : is_empty_file 
+~LMD/c{17}s/J/s{17}3.26_17-30-46-0400_iPhone-OS_iPhone_22E5222f/l{2}s/S{4}y/S{41}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}3.26_17-30-46-0400_iPhone-OS_iPhone_22E5222f/l{2}s/S{4}y/S{25}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}3.26_17-30-46-0400_iPhone-OS_iPhone_22E5222f/l{2}s/S{4}y/S{41}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/c{17}s/J/s{17}3.26_17-30-46-0400_iPhone-OS_iPhone_22E5222f/l{2}s/S{4}y/S{36}S.plist: ❌ Left : has_uf_compressed_flag_without_sf_dataless 
+~LMD/i{21}s/m{6}a.nosync: ❌ Left : is_empty_dir_with_extension 
+
+FPCK for Mobile Documents:
+❌ disk <-> FSSnapshot failed on 16/7152 files. 
+✅ FSSnapshot <-> FPSnapshot succeeded on 7152 files. 
+
+✅ ReconciliationTable checks succeeded on 7152 files. 
+
+
+✉️   Telemetry report:
+
+disk_broken_invariants_is_empty_file: 3
+spsTime: 1764250201.156529
+isInReimport: 0
+startTime: 1764250199.312179
+remaining_disk_broken_invariants_is_empty_dir_with_extension: 1
+lastUpdateTime: 1764250220.234184
+startBuild: 23B85
+superPendingSetErrors: {"NSFileProviderErrorDomain;-1003":[{"count":2200,"direction":0,"underlyingErrors":["NSCocoaErrorDomain;4354","CKErrorDomain;25","CKInternalErrorDomain;2035"]}]}
+numberOfItemsInFPSnapshot: 2800
+pendingSetSize: 0
+superPendingSetSize: 2233
+consistencyTime: 1764250220.234184
+FPCKRunReason: user
+disk_broken_invariants_is_empty_dir_with_extension: 1
+numberOfItemsInFSSnapshot: 2700
+accumulatedFileSizes: 3500000000
+totalFixedDiskBrokenInvariants: 0
+numberOfReconciliationTableEntries: 2700
+samplingRate: 74
+totalDatalessItems: 60
+numberOfBrokenFilesInReconciliationTableCheck: 0
+disk_broken_invariants_has_uf_compressed_flag_without_sf_dataless: 12
+numberOfBrokenFilesInFSAndFSSnapshotCheck: 16
+remaining_disk_broken_invariants_has_uf_compressed_flag_without_sf_dataless: 12
+status: 100
+totalMaterializedItems: 1900
+remaining_disk_broken_invariants_is_empty_file: 3
+numberOfBrokenFilesInFSSnapshotAndFPSnapshotCheck: 0
+consistencyBuild: 23B85
+totalFixedFSSnapshotDiffs: 0
+skippedLockedItems: 0
+lastUpdateBuild: 23B85
+repairDuration: 21000000000
+numberOfFilesChecked: 7200
+volumeRole: 1
+spsBuild: 23B85
+accumulatedSizeOfDisk: 3500000000
+
+======================================
+
