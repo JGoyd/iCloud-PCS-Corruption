@@ -47,18 +47,9 @@ This vulnerability was discovered on November 27, 2025 through diagnostic analys
 
 ## Attribution
 
-**Discovered by:** Joseph Goydish II  
-**Contact:** 077sanbox_escape@proton.me  
+**Discovered by:** Joseph Goydish II    
 **Discovery Date:** November 27, 2025
 
-## Disclosure Policy
-
-This repository is currently **PRIVATE** during coordinated disclosure with Apple and US-CERT. It will be made public following:
-- CVE assignment, AND
-- Vendor patch availability, OR
-- 90 days from vendor notification (standard disclosure timeline)
-
-Whichever comes first.
 
 ---
 
@@ -67,6 +58,3 @@ Whichever comes first.
 This research may be freely shared for educational and security purposes with proper attribution.
 EOF
 
-git add README.md
-git commit -m "Add README with discovery attribution and disclosure status"
-git push origin main
