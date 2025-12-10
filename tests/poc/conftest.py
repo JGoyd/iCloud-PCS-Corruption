@@ -8,7 +8,7 @@ diagnostic data from the vulnerability report.
 import json
 import pytest
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Dict, Any, List
 
 
@@ -67,7 +67,7 @@ class MockiCloudBackupSystem:
         self.backups[device_id] = {
             "keychain": keychain_data,
             "metadata": metadata,
-            "created_at": datetime.utcnow().isoformat(),
+            "created_at": datetime.now(timezone.utc).isoformat(),
             "validated": False  # Never validated
         }
         return True

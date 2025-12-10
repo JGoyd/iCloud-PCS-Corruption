@@ -15,7 +15,7 @@ import sys
 import argparse
 from pathlib import Path
 from typing import Dict, Any, List
-from datetime import datetime
+from datetime import datetime, timezone
 
 
 class EvidenceAnalyzer:
@@ -142,7 +142,7 @@ class EvidenceAnalyzer:
         high_severity = sum(1 for f in self.findings if f["severity"] == "high")
         
         report = {
-            "timestamp": datetime.utcnow().isoformat(),
+            "timestamp": datetime.now(timezone.utc).isoformat(),
             "summary": {
                 "total_findings": len(self.findings),
                 "total_issues": total_issues,
