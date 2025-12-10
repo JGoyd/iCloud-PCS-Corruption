@@ -1,0 +1,24 @@
+{
+  "backup_metadata": {
+    "NilBackupDateFetchDate": "2025-11-27T12:59:09Z",
+    "RemoteConfigurationBuildVersion": "23B85",
+    "SyncZoneFetched": true,
+    "LocalSnapshotsDisabled": false,
+    "BackupVersion": "26.1",
+    "LastBackupStatus": "Completed",
+    "BackupSize": 5368709120
+  },
+  "device_info": {
+    "ProductVersion": "26.1",
+    "ProductBuildVersion": "23B85",
+    "ProductName": "iPhone OS"
+  },
+  "validation_performed": false,
+  "user_warnings_shown": false,
+  "integrity_checks": {
+    "keychain_validated": false,
+    "timestamp_checked": false,
+    "pcs_status_verified": false,
+    "corruption_detected": false
+  }
+}

@@ -1,0 +1,63 @@
+name: PoC Tests
+
+on:
+  push:
+    branches: [ main, copilot/* ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Run PoC Tests
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        python-version: ["3.8", "3.9", "3.10", "3.11", "3.12"]
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run PoC tests with pytest
+      run: |
+        pytest tests/poc/ -v --tb=short
+    
+    - name: Run tests with coverage
+      if: matrix.python-version == '3.11'
+      run: |
+        pytest tests/poc/ --cov=tests/poc --cov-report=term --cov-report=xml
+    
+    - name: Upload coverage reports
+      if: matrix.python-version == '3.11'
+      uses: codecov/codecov-action@v4
+      with:
+        files: ./coverage.xml
+        flags: poc-tests
+      continue-on-error: true
+    
+    - name: Test Summary
+      if: always()
+      run: |
+        echo "## PoC Test Results" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "These tests demonstrate the iOS iCloud backup validation gap." >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "⚠️ **All tests passing indicates the vulnerability pattern exists**" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Tests validate that:" >> $GITHUB_STEP_SUMMARY
+        echo "- Corrupted keychain data is accepted without validation" >> $GITHUB_STEP_SUMMARY
+        echo "- Invalid timestamps pass through backup/restore" >> $GITHUB_STEP_SUMMARY
+        echo "- Error states are not caught or reported to users" >> $GITHUB_STEP_SUMMARY
+        echo "- Corruption propagates across devices and iOS updates" >> $GITHUB_STEP_SUMMARY

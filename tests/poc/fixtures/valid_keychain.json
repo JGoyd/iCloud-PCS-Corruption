@@ -1,0 +1,40 @@
+{
+  "status_keychain": {
+    "circle_status": "In Circle",
+    "view_status": {
+      "PCS-Backup": "enabled",
+      "PCS-CloudKit": "enabled",
+      "PCS-Escrow": "enabled",
+      "PCS-FDE": "enabled",
+      "PCS-Feldspar": "enabled",
+      "PCS-iCloudDrive": "enabled",
+      "PCS-iMessage": "enabled",
+      "PCS-Maildrop": "enabled",
+      "PCS-MasterKey": "enabled",
+      "PCS-Notes": "enabled",
+      "PCS-Photos": "enabled"
+    }
+  },
+  "keychain_items": [
+    {
+      "service": "AutoUnlock",
+      "account": "device-key",
+      "creation_date": "2025-01-15T10:30:00Z",
+      "modification_date": "2025-11-20T14:22:00Z",
+      "data": "valid-encrypted-data"
+    },
+    {
+      "service": "com.apple.account",
+      "account": "icloud-account",
+      "creation_date": "2024-12-01T08:00:00Z",
+      "modification_date": "2025-11-25T09:15:00Z",
+      "data": "valid-account-token"
+    }
+  ],
+  "corruption_indicators": {
+    "has_epoch_timestamps": false,
+    "has_error_status": false,
+    "has_unknown_pcs_views": false,
+    "corruption_timestamp": null
+  }
+}

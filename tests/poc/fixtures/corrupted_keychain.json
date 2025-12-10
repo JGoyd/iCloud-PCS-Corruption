@@ -1,0 +1,40 @@
+{
+  "status_keychain": {
+    "circle_status": "Error",
+    "view_status": {
+      "PCS-Backup": "unknown",
+      "PCS-CloudKit": "unknown",
+      "PCS-Escrow": "unknown",
+      "PCS-FDE": "unknown",
+      "PCS-Feldspar": "unknown",
+      "PCS-iCloudDrive": "unknown",
+      "PCS-iMessage": "unknown",
+      "PCS-Maildrop": "unknown",
+      "PCS-MasterKey": "unknown",
+      "PCS-Notes": "unknown",
+      "PCS-Photos": "unknown"
+    }
+  },
+  "keychain_items": [
+    {
+      "service": "AutoUnlock",
+      "account": "device-key",
+      "creation_date": "1970-01-01T00:11:19Z",
+      "modification_date": "1970-01-01T00:11:19Z",
+      "data": "corrupted-data-placeholder"
+    },
+    {
+      "service": "com.apple.account",
+      "account": "icloud-account",
+      "creation_date": "1970-01-01T00:00:00Z",
+      "modification_date": "2025-11-27T12:06:28Z",
+      "data": "invalid-timestamp-entry"
+    }
+  ],
+  "corruption_indicators": {
+    "has_epoch_timestamps": true,
+    "has_error_status": true,
+    "has_unknown_pcs_views": true,
+    "corruption_timestamp": "2024-11-14T12:06:28Z"
+  }
+}
